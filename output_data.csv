@@ -1,0 +1,2074 @@
+Feature_Name
+year
+km_driven
+fuel
+seller_type
+transmission
+mileage(km/ltr/kg)
+engine
+max_power
+seats
+age
+name_Ambassador CLASSIC 1500 DSL AC
+name_Ambassador Classic 2000 DSZ AC PS
+name_Ambassador Grand 1500 DSZ BSIII
+name_Ambassador Grand 2000 DSZ PW CL
+name_Ashok Leyland Stile LE
+name_Audi A3 35 TDI Premium Plus
+name_Audi A3 40 TFSI Premium
+name_Audi A4 1.8 TFSI
+name_Audi A4 2.0 TDI
+name_Audi A4 2.0 TDI 177 Bhp Premium Plus
+name_Audi A4 35 TDI Premium Plus
+name_Audi A6 2.0 TDI
+name_Audi A6 2.0 TDI  Design Edition
+name_Audi A6 2.0 TDI Premium Plus
+name_Audi A6 2.0 TDI Technology
+name_Audi A6 35 TFSI Matrix
+name_Audi Q3 2.0 TDI Quattro Premium Plus
+name_Audi Q3 35 TDI Quattro Premium Plus
+name_Audi Q3 35 TDI Quattro Technology
+name_Audi Q5 2.0 TDI
+name_Audi Q5 3.0 TDI Quattro
+name_Audi Q5 35TDI Premium Plus
+name_Audi Q5 45 TDI quattro Technology
+name_Audi Q7 3.0 TDI Quattro
+name_Audi Q7 3.0 TDI Quattro Premium Plus
+name_Audi Q7 35 TDI Quattro Premium
+name_BMW 3 Series 320d
+name_BMW 3 Series 320d Corporate Edition
+name_BMW 3 Series 320d GT Luxury Line
+name_BMW 3 Series 320d Highline
+name_BMW 3 Series 320d Luxury Line
+name_BMW 3 Series 320d Luxury Line Plus
+name_BMW 3 Series 320d Luxury Plus
+name_BMW 3 Series 320d Prestige
+name_BMW 3 Series 320d Sedan
+name_BMW 3 Series GT Luxury Line
+name_BMW 5 Series 520d
+name_BMW 5 Series 520d Luxury Line
+name_BMW 5 Series 520d Sedan
+name_BMW 5 Series 520d Sport Line
+name_BMW 5 Series 523i
+name_BMW 5 Series 525d
+name_BMW 5 Series 530d
+name_BMW 6 Series GT 630d Luxury Line
+name_BMW 7 Series 730Ld
+name_BMW X1 sDrive 20D xLine
+name_BMW X1 sDrive 20d Sportline
+name_BMW X1 sDrive20d
+name_BMW X1 sDrive20d M Sport
+name_BMW X1 sDrive20i xLine
+name_BMW X3 xDrive20d
+name_BMW X4 M Sport X xDrive20d
+name_BMW X5 3.0d
+name_BMW X6 xDrive30d
+name_BMW X7 xDrive 30d DPE
+name_Chevrolet Aveo 1.4 LS
+name_Chevrolet Aveo U-VA 1.2
+name_Chevrolet Aveo U-VA 1.2 LS
+name_Chevrolet Aveo U-VA 1.2 LT
+name_Chevrolet Beat Diesel
+name_Chevrolet Beat Diesel LS
+name_Chevrolet Beat Diesel LT
+name_Chevrolet Beat Diesel LT Option
+name_Chevrolet Beat LS
+name_Chevrolet Beat LT
+name_Chevrolet Captiva 2.2 LT
+name_Chevrolet Captiva 2.2 LTZ AWD
+name_Chevrolet Captiva LT
+name_Chevrolet Cruze LT
+name_Chevrolet Cruze LTZ
+name_Chevrolet Cruze LTZ AT
+name_Chevrolet Enjoy 1.3 TCDi LS 7
+name_Chevrolet Enjoy 1.3 TCDi LS 8
+name_Chevrolet Enjoy 1.3 TCDi LT 8
+name_Chevrolet Enjoy 1.3 TCDi LTZ 7
+name_Chevrolet Enjoy 1.3 TCDi LTZ 8
+name_Chevrolet Enjoy 1.4 LTZ 7
+name_Chevrolet Enjoy Petrol LS 7 Seater
+name_Chevrolet Enjoy TCDi LS 8 Seater
+name_Chevrolet Enjoy TCDi LT 7 Seater
+name_Chevrolet Enjoy TCDi LTZ 7 Seater
+name_Chevrolet Optra 1.6 LT Royale
+name_Chevrolet Optra Magnum 1.6 LT Petrol
+name_Chevrolet Optra Magnum 2.0 LS
+name_Chevrolet Optra Magnum 2.0 LS BSIII
+name_Chevrolet Optra Magnum 2.0 LT
+name_Chevrolet Optra Magnum 2.0 LT BS3
+name_Chevrolet Sail 1.2 LS
+name_Chevrolet Sail 1.2 LS ABS
+name_Chevrolet Sail 1.2 LT ABS
+name_Chevrolet Sail 1.3 LS
+name_Chevrolet Sail Hatchback 1.2
+name_Chevrolet Sail Hatchback 1.2 LS
+name_Chevrolet Sail Hatchback Diesel
+name_Chevrolet Sail Hatchback Diesel Base
+name_Chevrolet Sail Hatchback LS ABS
+name_Chevrolet Sail Hatchback LT ABS
+name_Chevrolet Sail Hatchback Petrol
+name_Chevrolet Sail Hatchback Petrol LS ABS
+name_Chevrolet Sail LT ABS
+name_Chevrolet Spark 1.0
+name_Chevrolet Spark 1.0 E
+name_Chevrolet Spark 1.0 LS
+name_Chevrolet Spark 1.0 LT
+name_Chevrolet Spark 1.0 LT LPG
+name_Chevrolet Spark 1.0 LT Option Pack w/ Airbag
+name_Chevrolet Spark 1.0 PS
+name_Chevrolet Spark 1.0 PS LPG
+name_Chevrolet Tavera B1-10 seats BSII
+name_Chevrolet Tavera B2 8 Seats BSIII
+name_Chevrolet Tavera B3 LT L1 10 Seats BSIII
+name_Chevrolet Tavera LS B3 10 Seats BSII
+name_Chevrolet Tavera Neo 3 10 Seats BSIII
+name_Chevrolet Tavera Neo 3 9 Str BSIII
+name_Chevrolet Tavera Neo 3 LS 10 Seats BSIII
+name_Chevrolet Tavera Neo 3 LS 10 Str
+name_Chevrolet Tavera Neo 3 LS 9 Str BSIII
+name_Chevrolet Tavera Neo 3 LT 9 Seats BSIII
+name_Chevrolet Tavera Neo 3 LT 9 Seats BSIV
+name_Chevrolet Tavera Neo LS B3 - 10 seats BSIII
+name_Chevrolet Tavera Neo LS B3 - 7(C) seats BSIII
+name_Chevrolet Tavera Neo LT-L - 9 seats BSII
+name_Chevrolet Trailblazer LTZ 4X2 AT
+name_Daewoo Matiz SD
+name_Daewoo Matiz SS
+name_Datsun GO A
+name_Datsun GO A EPS
+name_Datsun GO A Option Petrol
+name_Datsun GO A Petrol
+name_Datsun GO Anniversary Edition
+name_Datsun GO D
+name_Datsun GO D Petrol
+name_Datsun GO Plus A
+name_Datsun GO Plus A Option Petrol
+name_Datsun GO Plus Anniversary Edition
+name_Datsun GO Plus D
+name_Datsun GO Plus D1
+name_Datsun GO Plus T
+name_Datsun GO Plus T BSIV
+name_Datsun GO Plus T Option BSIV
+name_Datsun GO Plus T VDC
+name_Datsun GO T BSIV
+name_Datsun GO T Option
+name_Datsun GO T Option BSIV
+name_Datsun GO T Petrol
+name_Datsun RediGO 1.0 S
+name_Datsun RediGO 1.0 T Option
+name_Datsun RediGO A
+name_Datsun RediGO AMT 1.0 S
+name_Datsun RediGO S
+name_Datsun RediGO SV 1.0
+name_Datsun RediGO Sport
+name_Datsun RediGO T
+name_Datsun RediGO T Option
+name_Fiat Avventura MULTIJET Emotion
+name_Fiat Avventura Power Up 1.3 Active
+name_Fiat Avventura Power Up 1.3 Emotion
+name_Fiat Grande Punto 1.3 Dynamic (Diesel)
+name_Fiat Grande Punto 1.3 Emotion (Diesel)
+name_Fiat Grande Punto 1.3 Emotion Pack 90HP (Diesel)
+name_Fiat Grande Punto 1.4 Emotion
+name_Fiat Grande Punto Active (Diesel)
+name_Fiat Grande Punto EVO 1.2 Dynamic
+name_Fiat Grande Punto EVO 1.3 Active
+name_Fiat Grande Punto EVO 1.3 Dynamic
+name_Fiat Grande Punto Sport 90BHP
+name_Fiat Linea 1.3 Active
+name_Fiat Linea 1.3 Multijet Active
+name_Fiat Linea 1.3 Multijet Emotion
+name_Fiat Linea Classic 1.3 Multijet
+name_Fiat Linea Classic Plus 1.3 Multijet
+name_Fiat Linea Emotion
+name_Fiat Linea Emotion (Diesel)
+name_Fiat Palio 1.2
+name_Fiat Palio 1.2 ELX
+name_Fiat Punto 1.2 Active
+name_Fiat Punto 1.3 Emotion
+name_Fiat Punto EVO 1.3 Emotion
+name_Fiat Punto Pure 1.2L FIRE
+name_Force Gurkha Hard Top BS3 4WD
+name_Force One EX
+name_Force One SX ABS 7 Seating
+name_Ford Aspire Titanium BSIV
+name_Ford Aspire Titanium Diesel BSIV
+name_Ford Aspire Trend Diesel BSIV
+name_Ford Aspire Trend Plus
+name_Ford Classic 1.4 Duratorq CLXI
+name_Ford Classic 1.4 Duratorq Titanium
+name_Ford Classic 1.6 Duratec CLXI
+name_Ford Classic 1.6 Duratec LXI
+name_Ford Classic 1.6 Duratec Titanium
+name_Ford EcoSport 1.5 Diesel Ambiente BSIV
+name_Ford EcoSport 1.5 Diesel Titanium BSIV
+name_Ford EcoSport 1.5 Diesel Titanium Plus BSIV
+name_Ford EcoSport 1.5 Diesel Trend BSIV
+name_Ford EcoSport 1.5 Diesel Trend Plus BSIV
+name_Ford EcoSport 1.5 Petrol Ambiente BSIV
+name_Ford EcoSport 1.5 Petrol Titanium BSIV
+name_Ford EcoSport 1.5 Petrol Titanium Plus BSIV
+name_Ford EcoSport 1.5 Petrol Trend BSIV
+name_Ford EcoSport 1.5 TDCi Ambiente BSIV
+name_Ford EcoSport 1.5 TDCi Platinum Edition BSIV
+name_Ford EcoSport 1.5 TDCi Signature BSIV
+name_Ford EcoSport 1.5 TDCi Titanium BE BSIV
+name_Ford EcoSport 1.5 TDCi Titanium BSIV
+name_Ford EcoSport 1.5 TDCi Titanium Plus BE BSIV
+name_Ford EcoSport 1.5 TDCi Titanium Plus BSIV
+name_Ford EcoSport 1.5 TDCi Trend Plus BSIV
+name_Ford EcoSport 1.5 Ti VCT AT Titanium BE BSIV
+name_Ford EcoSport 1.5 Ti VCT AT Titanium BSIV
+name_Ford EcoSport 1.5 Ti VCT MT Titanium BSIV
+name_Ford EcoSport 1.5 Ti VCT MT Trend BSIV
+name_Ford EcoSport S Diesel BSIV
+name_Ford Ecosport 1.0 Ecoboost Titanium Optional
+name_Ford Ecosport 1.5 DV5 MT Titanium
+name_Ford Ecosport 1.5 DV5 MT Titanium Optional
+name_Ford Ecosport 1.5 DV5 MT Trend
+name_Ford Ecosport 1.5 Diesel Titanium
+name_Ford Ecosport 1.5 Diesel Trend
+name_Ford Ecosport 1.5 Petrol Ambiente
+name_Ford Ecosport 1.5 Petrol Titanium
+name_Ford Ecosport 1.5 Ti VCT AT Titanium
+name_Ford Ecosport 1.5 Ti VCT MT Titanium
+name_Ford Ecosport Sports Diesel
+name_Ford Endeavour 2.2 Titanium AT 4X2
+name_Ford Endeavour 2.5L 4X2
+name_Ford Endeavour 2.5L 4X2 MT
+name_Ford Endeavour 3.0L 4X2 AT
+name_Ford Endeavour 3.0L 4X4 AT
+name_Ford Endeavour 3.2 Titanium AT 4X4
+name_Ford Endeavour 4x2 XLT Limited Edition
+name_Ford Endeavour Hurricane Limited Edition
+name_Ford Fiesta 1.4 Durasport EXI
+name_Ford Fiesta 1.4 Duratec EXI
+name_Ford Fiesta 1.4 Duratec EXI Limited Edition
+name_Ford Fiesta 1.4 Duratec ZXI
+name_Ford Fiesta 1.4 Duratorq EXI
+name_Ford Fiesta 1.4 Duratorq ZXI
+name_Ford Fiesta 1.4 SXi TDCi
+name_Ford Fiesta 1.4 SXi TDCi ABS
+name_Ford Fiesta 1.4 TDCi EXI
+name_Ford Fiesta 1.4 ZXi Duratec
+name_Ford Fiesta 1.4 ZXi TDCi ABS
+name_Ford Fiesta 1.4 ZXi TDCi LE
+name_Ford Fiesta 1.4 ZXi TDCi Limited Edition
+name_Ford Fiesta 1.5 TDCi Ambiente
+name_Ford Fiesta 1.5 TDCi Titanium
+name_Ford Fiesta 1.5 TDCi Trend
+name_Ford Fiesta 1.6 Duratec EXI
+name_Ford Fiesta 1.6 SXI ABS Duratec
+name_Ford Fiesta 1.6 ZXi ABS
+name_Ford Fiesta Classic 1.4 Duratorq CLXI
+name_Ford Fiesta Classic 1.4 Duratorq LXI
+name_Ford Fiesta Classic 1.4 SXI Duratorq
+name_Ford Fiesta Classic 1.6 Duratec CLXI
+name_Ford Fiesta Classic 1.6 Duratec LXI
+name_Ford Fiesta Classic 1.6 SXI Duratec
+name_Ford Fiesta Diesel Style
+name_Ford Fiesta EXi 1.4 TDCi Ltd
+name_Ford Fiesta Titanium 1.5 TDCi
+name_Ford Figo 1.2P Ambiente MT
+name_Ford Figo 1.2P Sports Edition MT
+name_Ford Figo 1.2P Titanium MT
+name_Ford Figo 1.2P Titanium Opt MT
+name_Ford Figo 1.2P Titanium Plus MT
+name_Ford Figo 1.2P Trend MT
+name_Ford Figo 1.5 Sports Edition MT
+name_Ford Figo 1.5D Ambiente MT
+name_Ford Figo 1.5D Base MT
+name_Ford Figo 1.5D Titanium MT
+name_Ford Figo 1.5D Titanium Opt MT
+name_Ford Figo 1.5D Trend MT
+name_Ford Figo 1.5P Titanium AT
+name_Ford Figo Aspire 1.2 Ti-VCT Sports Edition
+name_Ford Figo Aspire 1.2 Ti-VCT Titanium
+name_Ford Figo Aspire 1.2 Ti-VCT Titanium Plus
+name_Ford Figo Aspire 1.2 Ti-VCT Trend
+name_Ford Figo Aspire 1.5 TDCi Ambiente
+name_Ford Figo Aspire 1.5 TDCi Sports Edition
+name_Ford Figo Aspire 1.5 TDCi Titanium
+name_Ford Figo Aspire 1.5 TDCi Titanium Opt
+name_Ford Figo Aspire 1.5 TDCi Trend
+name_Ford Figo Aspire 1.5 Ti-VCT Titanium
+name_Ford Figo Aspire Facelift
+name_Ford Figo Aspire Titanium
+name_Ford Figo Aspire Titanium Diesel
+name_Ford Figo Diesel Celebration Edition
+name_Ford Figo Diesel EXI
+name_Ford Figo Diesel EXI Option
+name_Ford Figo Diesel LXI
+name_Ford Figo Diesel Titanium
+name_Ford Figo Diesel ZXI
+name_Ford Figo Petrol EXI
+name_Ford Figo Petrol LXI
+name_Ford Figo Petrol Titanium
+name_Ford Figo Petrol ZXI
+name_Ford Figo Titanium Blu
+name_Ford Figo Titanium Diesel
+name_Ford Figo Titanium Diesel BSIV
+name_Ford Freestyle Titanium Diesel
+name_Ford Freestyle Titanium Diesel BSIV
+name_Ford Freestyle Titanium Petrol BSIV
+name_Ford Freestyle Titanium Plus Diesel
+name_Ford Freestyle Titanium Plus Diesel BSIV
+name_Ford Freestyle Titanium Plus Petrol BSIV
+name_Ford Freestyle Trend Diesel
+name_Ford Freestyle Trend Diesel BSIV
+name_Ford Freestyle Trend Petrol BSIV
+name_Ford Fusion 1.4 TDCi Diesel
+name_Ford Fusion Plus 1.4 TDCi Diesel
+name_Ford Ikon 1.3 CLXi
+name_Ford Ikon 1.3 Flair
+name_Ford Ikon 1.4 TDCi DuraTorq
+name_Ford Ikon 1.6 EXi NXt
+name_Ford Ikon 1.6 Nxt
+name_Ford Ikon 1.6 Really Sport
+name_Ford Ikon 1.8 D
+name_Honda Accord 2.4 A/T
+name_Honda Accord 2.4 AT
+name_Honda Accord 2.4 M/T
+name_Honda Accord 2.4 MT
+name_Honda Accord V6 AT
+name_Honda Accord VTi-L MT
+name_Honda Amaze Anniversary Edition
+name_Honda Amaze E Diesel BSIV
+name_Honda Amaze E Option i-DTEC
+name_Honda Amaze E i-DTEC
+name_Honda Amaze E i-Dtech
+name_Honda Amaze E i-VTEC
+name_Honda Amaze EX i-Vtech
+name_Honda Amaze S AT i-Vtech
+name_Honda Amaze S CVT Diesel BSIV
+name_Honda Amaze S CVT Petrol BSIV
+name_Honda Amaze S CVT i-VTEC
+name_Honda Amaze S Diesel
+name_Honda Amaze S Diesel BSIV
+name_Honda Amaze S Option i-DTEC
+name_Honda Amaze S Petrol BSIV
+name_Honda Amaze S i-DTEC
+name_Honda Amaze S i-Dtech
+name_Honda Amaze S i-VTEC
+name_Honda Amaze S i-Vtech
+name_Honda Amaze SX i-DTEC
+name_Honda Amaze V CVT Petrol BSIV
+name_Honda Amaze V Petrol BSIV
+name_Honda Amaze VX Diesel BSIV
+name_Honda Amaze VX O iDTEC
+name_Honda Amaze VX Petrol BSIV
+name_Honda Amaze VX i-DTEC
+name_Honda Amaze VX i-VTEC
+name_Honda Amaze i-VTEC Privilege Edition
+name_Honda BR-V i-DTEC S MT
+name_Honda BR-V i-DTEC VX MT
+name_Honda BR-V i-VTEC E MT
+name_Honda BR-V i-VTEC S MT
+name_Honda BR-V i-VTEC VX MT
+name_Honda BRV i-DTEC V MT
+name_Honda BRV i-VTEC V CVT
+name_Honda BRV i-VTEC V MT
+name_Honda Brio 1.2 E MT
+name_Honda Brio 1.2 S MT
+name_Honda Brio 1.2 VX MT
+name_Honda Brio E MT
+name_Honda Brio Exclusive Edition
+name_Honda Brio S MT
+name_Honda Brio V MT
+name_Honda CR-V 2.0L 2WD AT
+name_Honda CR-V 2.4 4WD AT
+name_Honda CR-V 2.4L 4WD
+name_Honda CR-V 2.4L 4WD AT
+name_Honda CR-V 2.4L 4WD AT AVN
+name_Honda CR-V 2.4L 4WD MT
+name_Honda City 1.3 EXI
+name_Honda City 1.5 E MT
+name_Honda City 1.5 EXI
+name_Honda City 1.5 GXI
+name_Honda City 1.5 GXI CVT
+name_Honda City 1.5 S Inspire
+name_Honda City 1.5 S MT
+name_Honda City 1.5 V AT
+name_Honda City 1.5 V Elegance
+name_Honda City 1.5 V Inspire
+name_Honda City 1.5 V MT
+name_Honda City 1.5 V MT Exclusive
+name_Honda City 1.5 V MT Sunroof
+name_Honda City 2017-2020 EXi
+name_Honda City 2017-2020 GXi
+name_Honda City 2017-2020 VTEC
+name_Honda City Corporate Edition
+name_Honda City E
+name_Honda City S
+name_Honda City V AT
+name_Honda City V MT
+name_Honda City VX CVT
+name_Honda City ZXi AT
+name_Honda City i DTEC E
+name_Honda City i DTEC S
+name_Honda City i DTEC SV
+name_Honda City i DTEC V
+name_Honda City i DTEC VX
+name_Honda City i DTEC VX Option
+name_Honda City i DTec E
+name_Honda City i DTec S
+name_Honda City i DTec SV
+name_Honda City i DTec V
+name_Honda City i DTec VX
+name_Honda City i VTEC CVT SV
+name_Honda City i VTEC CVT VX
+name_Honda City i VTEC E
+name_Honda City i VTEC S
+name_Honda City i VTEC SV
+name_Honda City i VTEC V
+name_Honda City i VTEC VX
+name_Honda City i VTEC VX Option
+name_Honda City i VTEC VX Option BL
+name_Honda City i-DTEC V
+name_Honda City i-DTEC VX
+name_Honda City i-DTEC ZX
+name_Honda City i-VTEC CVT V
+name_Honda City i-VTEC CVT VX
+name_Honda City i-VTEC CVT ZX
+name_Honda City i-VTEC S
+name_Honda City i-VTEC V
+name_Honda City i-VTEC VX
+name_Honda Civic 1.8 (E) MT
+name_Honda Civic 1.8 S AT
+name_Honda Civic 1.8 S MT
+name_Honda Civic 1.8 V AT
+name_Honda Civic 1.8 V MT
+name_Honda Civic 1.8 V MT Inspire
+name_Honda Civic Hybrid
+name_Honda Civic ZX
+name_Honda Civic ZX Diesel BSIV
+name_Honda Jazz 1.2 S AT i VTEC
+name_Honda Jazz 1.2 S i VTEC
+name_Honda Jazz 1.2 SV i VTEC
+name_Honda Jazz 1.2 V AT i VTEC
+name_Honda Jazz 1.2 V AT i VTEC Privilege
+name_Honda Jazz 1.2 V i VTEC
+name_Honda Jazz 1.2 VX i VTEC
+name_Honda Jazz 1.5 E i DTEC
+name_Honda Jazz 1.5 S i DTEC
+name_Honda Jazz 1.5 V i DTEC
+name_Honda Jazz 1.5 VX i DTEC
+name_Honda Jazz Basic
+name_Honda Jazz Select Edition Active
+name_Honda Jazz V
+name_Honda Jazz V CVT
+name_Honda Jazz V Diesel
+name_Honda Jazz VX
+name_Honda Jazz VX CVT
+name_Honda Jazz VX Diesel
+name_Honda Mobilio RS Option i DTEC
+name_Honda Mobilio RS i DTEC
+name_Honda Mobilio S i DTEC
+name_Honda Mobilio S i VTEC
+name_Honda Mobilio V i DTEC
+name_Honda Mobilio V i VTEC
+name_Honda WR-V i-DTEC S
+name_Honda WR-V i-DTEC VX
+name_Honda WR-V i-VTEC S
+name_Honda WR-V i-VTEC VX
+name_Hyundai Accent CRDi
+name_Hyundai Accent DLS
+name_Hyundai Accent Executive
+name_Hyundai Accent Executive CNG
+name_Hyundai Accent Executive LPG
+name_Hyundai Accent GLE
+name_Hyundai Accent GLE CNG
+name_Hyundai Accent GLS
+name_Hyundai Accent GLS 1.6
+name_Hyundai Accent GLS 1.6 ABS
+name_Hyundai Accent GLX
+name_Hyundai Accent Gvs
+name_Hyundai Accent VIVA CRDi
+name_Hyundai Creta 1.4 CRDi Base
+name_Hyundai Creta 1.4 CRDi S
+name_Hyundai Creta 1.4 CRDi S Plus
+name_Hyundai Creta 1.4 E Plus
+name_Hyundai Creta 1.4 EX Diesel
+name_Hyundai Creta 1.6 CRDi AT S Plus
+name_Hyundai Creta 1.6 CRDi AT SX Plus
+name_Hyundai Creta 1.6 CRDi Anniversary Edition
+name_Hyundai Creta 1.6 CRDi SX
+name_Hyundai Creta 1.6 CRDi SX Option
+name_Hyundai Creta 1.6 CRDi SX Plus
+name_Hyundai Creta 1.6 CRDi SX Plus Dual Tone
+name_Hyundai Creta 1.6 Gamma SX Plus
+name_Hyundai Creta 1.6 SX
+name_Hyundai Creta 1.6 SX Automatic
+name_Hyundai Creta 1.6 SX Automatic Diesel
+name_Hyundai Creta 1.6 SX Diesel
+name_Hyundai Creta 1.6 SX Option
+name_Hyundai Creta 1.6 SX Option Executive
+name_Hyundai Creta 1.6 VTVT E Plus
+name_Hyundai Creta 1.6 VTVT S
+name_Hyundai EON 1.0 Era Plus
+name_Hyundai EON 1.0 Kappa Magna Plus
+name_Hyundai EON 1.0 Kappa Magna Plus Optional
+name_Hyundai EON 1.0 Magna Plus Option O
+name_Hyundai EON D Lite
+name_Hyundai EON D Lite Plus
+name_Hyundai EON D Lite Plus Option
+name_Hyundai EON Era
+name_Hyundai EON Era Plus
+name_Hyundai EON Era Plus Sports Edition
+name_Hyundai EON LPG Era Plus
+name_Hyundai EON Magna Optional
+name_Hyundai EON Magna Plus
+name_Hyundai EON Magna Plus Option
+name_Hyundai EON Sportz
+name_Hyundai Elantra CRDi
+name_Hyundai Elantra CRDi SX
+name_Hyundai Elantra CRDi SX Option AT
+name_Hyundai Elantra GLS
+name_Hyundai Elantra GT
+name_Hyundai Elantra S
+name_Hyundai Elantra SX
+name_Hyundai Elantra SX AT
+name_Hyundai Elite i20 Asta Option BSIV
+name_Hyundai Elite i20 Asta Option CVT BSIV
+name_Hyundai Elite i20 Asta Option Diesel
+name_Hyundai Elite i20 Diesel Sportz
+name_Hyundai Elite i20 Magna Plus BSIV
+name_Hyundai Elite i20 Petrol Asta
+name_Hyundai Elite i20 Petrol Asta Option
+name_Hyundai Elite i20 Petrol CVT Magna Executive
+name_Hyundai Elite i20 Petrol Magna Exective
+name_Hyundai Elite i20 Petrol Sportz
+name_Hyundai Elite i20 Sportz Plus BSIV
+name_Hyundai Elite i20 Sportz Plus CVT BSIV
+name_Hyundai Elite i20 Sportz Plus Diesel
+name_Hyundai Elite i20 Sportz Plus Dual Tone BSIV
+name_Hyundai Getz 1.1 GLE
+name_Hyundai Getz 1.1 GVS
+name_Hyundai Getz 1.3 GVS
+name_Hyundai Getz 1.5 CRDi GVS
+name_Hyundai Getz GLE
+name_Hyundai Getz GLS
+name_Hyundai Getz GLX
+name_Hyundai Grand i10 1.2 CRDi Asta
+name_Hyundai Grand i10 1.2 CRDi Magna
+name_Hyundai Grand i10 1.2 CRDi Sportz
+name_Hyundai Grand i10 1.2 CRDi Sportz Option
+name_Hyundai Grand i10 1.2 Kappa Asta
+name_Hyundai Grand i10 1.2 Kappa Era
+name_Hyundai Grand i10 1.2 Kappa Magna AT
+name_Hyundai Grand i10 1.2 Kappa Magna BSIV
+name_Hyundai Grand i10 1.2 Kappa Sportz AT
+name_Hyundai Grand i10 1.2 Kappa Sportz BSIV
+name_Hyundai Grand i10 1.2 Kappa Sportz Dual Tone
+name_Hyundai Grand i10 1.2 Kappa Sportz Option
+name_Hyundai Grand i10 AT Asta
+name_Hyundai Grand i10 AT Sportz
+name_Hyundai Grand i10 Asta
+name_Hyundai Grand i10 Asta Option
+name_Hyundai Grand i10 CRDi Asta
+name_Hyundai Grand i10 CRDi Asta Option
+name_Hyundai Grand i10 CRDi Magna
+name_Hyundai Grand i10 CRDi SportZ Edition
+name_Hyundai Grand i10 CRDi Sportz
+name_Hyundai Grand i10 Magna
+name_Hyundai Grand i10 Magna AT
+name_Hyundai Grand i10 Nios AMT Sportz
+name_Hyundai Grand i10 Nios Sportz
+name_Hyundai Grand i10 SportZ Edition
+name_Hyundai Grand i10 Sportz
+name_Hyundai Grand i10 Sportz Celebration Edition
+name_Hyundai Santa Fe 2WD AT
+name_Hyundai Santa Fe 2WD MT
+name_Hyundai Santa Fe 4WD AT
+name_Hyundai Santa Fe 4X4
+name_Hyundai Santa Fe 4x4 AT
+name_Hyundai Santro AT
+name_Hyundai Santro AT CNG
+name_Hyundai Santro Asta BSIV
+name_Hyundai Santro DX
+name_Hyundai Santro Era
+name_Hyundai Santro GLS I - Euro I
+name_Hyundai Santro GLS I - Euro II
+name_Hyundai Santro GS zipDrive - Euro I
+name_Hyundai Santro GS zipDrive - Euro II
+name_Hyundai Santro GS zipPlus
+name_Hyundai Santro LE
+name_Hyundai Santro LP - Euro II
+name_Hyundai Santro LP zipPlus
+name_Hyundai Santro LS zipPlus
+name_Hyundai Santro Magna
+name_Hyundai Santro Magna AMT BSIV
+name_Hyundai Santro Magna BSIV
+name_Hyundai Santro Sportz AMT BSIV
+name_Hyundai Santro Sportz BSIV
+name_Hyundai Santro Xing (Non-AC)
+name_Hyundai Santro Xing ABS
+name_Hyundai Santro Xing Base
+name_Hyundai Santro Xing GL
+name_Hyundai Santro Xing GL CNG
+name_Hyundai Santro Xing GL LPG
+name_Hyundai Santro Xing GL PLUS CNG
+name_Hyundai Santro Xing GL Plus
+name_Hyundai Santro Xing GL Plus LPG
+name_Hyundai Santro Xing GLS
+name_Hyundai Santro Xing GLS CNG
+name_Hyundai Santro Xing GLS LPG
+name_Hyundai Santro Xing XG
+name_Hyundai Santro Xing XG AT
+name_Hyundai Santro Xing XG AT eRLX Euro II
+name_Hyundai Santro Xing XG AT eRLX Euro III
+name_Hyundai Santro Xing XK eRLX Euro II
+name_Hyundai Santro Xing XK eRLX EuroIII
+name_Hyundai Santro Xing XL
+name_Hyundai Santro Xing XL eRLX Euro II
+name_Hyundai Santro Xing XO
+name_Hyundai Santro Xing XO eRLX Euro II
+name_Hyundai Santro Xing XP
+name_Hyundai Santro Xing XS
+name_Hyundai Santro Xing XS eRLX Euro II
+name_Hyundai Santro Xing XS eRLX Euro III
+name_Hyundai Sonata 2.0L CRDi MT
+name_Hyundai Sonata 2.4 GDi MT
+name_Hyundai Sonata 2.4L AT
+name_Hyundai Sonata CRDi M/T
+name_Hyundai Tucson 2.0 e-VGT 2WD AT GLS
+name_Hyundai Tucson CRDi
+name_Hyundai Venue SX Plus Dual Tone Turbo DCT
+name_Hyundai Venue SX Plus Turbo DCT BSIV
+name_Hyundai Verna 1.4 CRDi
+name_Hyundai Verna 1.4 CX
+name_Hyundai Verna 1.4 VTVT
+name_Hyundai Verna 1.6 CRDI
+name_Hyundai Verna 1.6 CRDI AT SX Option
+name_Hyundai Verna 1.6 CRDi EX AT
+name_Hyundai Verna 1.6 CRDi EX MT
+name_Hyundai Verna 1.6 CRDi S
+name_Hyundai Verna 1.6 CRDi S Option
+name_Hyundai Verna 1.6 CRDi SX
+name_Hyundai Verna 1.6 SX
+name_Hyundai Verna 1.6 SX CRDI (O) AT
+name_Hyundai Verna 1.6 SX CRDi (O)
+name_Hyundai Verna 1.6 SX VTVT (O)
+name_Hyundai Verna 1.6 SX VTVT AT
+name_Hyundai Verna 1.6 VGT CRDi
+name_Hyundai Verna 1.6 VTVT
+name_Hyundai Verna 1.6 VTVT AT SX
+name_Hyundai Verna 1.6 VTVT S
+name_Hyundai Verna 1.6 VTVT S Option
+name_Hyundai Verna 1.6 VTVT SX
+name_Hyundai Verna 1.6 Xi ABS
+name_Hyundai Verna CRDi
+name_Hyundai Verna CRDi 1.4 EX
+name_Hyundai Verna CRDi 1.6 AT SX Option
+name_Hyundai Verna CRDi 1.6 AT SX Plus
+name_Hyundai Verna CRDi 1.6 EX
+name_Hyundai Verna CRDi 1.6 SX
+name_Hyundai Verna CRDi 1.6 SX Option
+name_Hyundai Verna CRDi ABS
+name_Hyundai Verna CRDi SX
+name_Hyundai Verna CRDi SX ABS
+name_Hyundai Verna S
+name_Hyundai Verna SX
+name_Hyundai Verna SX CRDi AT
+name_Hyundai Verna SX Diesel
+name_Hyundai Verna SX Opt
+name_Hyundai Verna Transform CRDi VGT SX ABS
+name_Hyundai Verna Transform SX VGT CRDi
+name_Hyundai Verna Transform SX VGT CRDi AT BS III
+name_Hyundai Verna Transform SX VTVT
+name_Hyundai Verna Transform VGT CRDi
+name_Hyundai Verna Transform VTVT
+name_Hyundai Verna VTVT 1.6 AT SX Option
+name_Hyundai Verna VTVT 1.6 SX
+name_Hyundai Verna VTVT 1.6 SX Option
+name_Hyundai Verna XXi ABS (Petrol)
+name_Hyundai Verna Xi (Petrol)
+name_Hyundai Xcent 1.1 CRDi Base
+name_Hyundai Xcent 1.1 CRDi S
+name_Hyundai Xcent 1.1 CRDi S Option
+name_Hyundai Xcent 1.1 CRDi SX
+name_Hyundai Xcent 1.1 CRDi SX Option
+name_Hyundai Xcent 1.2 CRDi E
+name_Hyundai Xcent 1.2 CRDi E Plus
+name_Hyundai Xcent 1.2 CRDi S
+name_Hyundai Xcent 1.2 CRDi SX
+name_Hyundai Xcent 1.2 CRDi SX Option
+name_Hyundai Xcent 1.2 Kappa AT S Option
+name_Hyundai Xcent 1.2 Kappa AT SX Option
+name_Hyundai Xcent 1.2 Kappa Base
+name_Hyundai Xcent 1.2 Kappa S
+name_Hyundai Xcent 1.2 Kappa S Option
+name_Hyundai Xcent 1.2 Kappa SX
+name_Hyundai Xcent 1.2 Kappa SX Option
+name_Hyundai Xcent 1.2 Kappa SX Option AT
+name_Hyundai Xcent 1.2 VTVT E
+name_Hyundai Xcent 1.2 VTVT E Plus
+name_Hyundai Xcent 1.2 VTVT S
+name_Hyundai Xcent 1.2 VTVT S AT
+name_Hyundai Xcent 1.2 VTVT SX
+name_Hyundai Xcent 1.2 VTVT SX Option
+name_Hyundai i10 Asta
+name_Hyundai i10 Asta Sunroof AT
+name_Hyundai i10 Era
+name_Hyundai i10 Era 1.1
+name_Hyundai i10 Era 1.1 iTech SE
+name_Hyundai i10 LPG
+name_Hyundai i10 Magna
+name_Hyundai i10 Magna 1.1L
+name_Hyundai i10 Magna 1.2 iTech SE
+name_Hyundai i10 Magna LPG
+name_Hyundai i10 Sportz
+name_Hyundai i10 Sportz 1.1L
+name_Hyundai i10 Sportz 1.1L LPG
+name_Hyundai i10 Sportz 1.2
+name_Hyundai i10 Sportz 1.2 AT
+name_Hyundai i10 Sportz AT
+name_Hyundai i10 Sportz Option
+name_Hyundai i20 1.2 Asta
+name_Hyundai i20 1.2 Asta Dual Tone
+name_Hyundai i20 1.2 Asta Option
+name_Hyundai i20 1.2 Magna
+name_Hyundai i20 1.2 Magna Executive
+name_Hyundai i20 1.2 Sportz
+name_Hyundai i20 1.2 Spotz
+name_Hyundai i20 1.4 Asta
+name_Hyundai i20 1.4 Asta (AT)
+name_Hyundai i20 1.4 Asta Dual Tone
+name_Hyundai i20 1.4 Asta Option
+name_Hyundai i20 1.4 CRDi Asta
+name_Hyundai i20 1.4 CRDi Era
+name_Hyundai i20 1.4 CRDi Magna
+name_Hyundai i20 1.4 CRDi Sportz
+name_Hyundai i20 1.4 Magna AT
+name_Hyundai i20 1.4 Sportz
+name_Hyundai i20 2015-2017 Asta 1.2
+name_Hyundai i20 2015-2017 Asta 1.4 CRDi
+name_Hyundai i20 2015-2017 Asta Option 1.2
+name_Hyundai i20 2015-2017 Asta Option 1.4 CRDi
+name_Hyundai i20 2015-2017 Magna 1.2
+name_Hyundai i20 2015-2017 Magna 1.4 CRDi
+name_Hyundai i20 2015-2017 Sportz 1.2
+name_Hyundai i20 2015-2017 Sportz 1.4 CRDi
+name_Hyundai i20 2015-2017 Sportz Option 1.2
+name_Hyundai i20 2015-2017 Sportz Option 1.4 CRDi
+name_Hyundai i20 Active 1.2
+name_Hyundai i20 Active 1.2 S
+name_Hyundai i20 Active 1.2 SX
+name_Hyundai i20 Active 1.2 SX Dual Tone
+name_Hyundai i20 Active 1.2 SX with AVN
+name_Hyundai i20 Active 1.4
+name_Hyundai i20 Active 1.4 S
+name_Hyundai i20 Active 1.4 SX
+name_Hyundai i20 Active 1.4 SX Dual Tone
+name_Hyundai i20 Active 1.4 SX with AVN
+name_Hyundai i20 Active Base Petrol
+name_Hyundai i20 Active S Diesel
+name_Hyundai i20 Active S Petrol
+name_Hyundai i20 Active SX Diesel
+name_Hyundai i20 Active SX Petrol
+name_Hyundai i20 Asta
+name_Hyundai i20 Asta (o)
+name_Hyundai i20 Asta (o) 1.4 CRDi (Diesel)
+name_Hyundai i20 Asta 1.2
+name_Hyundai i20 Asta 1.4 CRDi
+name_Hyundai i20 Asta 1.4 CRDi (Diesel)
+name_Hyundai i20 Asta Option 1.2
+name_Hyundai i20 Asta Option 1.4 CRDi
+name_Hyundai i20 Asta Optional With Sunroof 1.2
+name_Hyundai i20 Asta Optional with Sunroof 1.2
+name_Hyundai i20 Diesel Asta Option
+name_Hyundai i20 Era 1.2
+name_Hyundai i20 Era 1.4 CRDi
+name_Hyundai i20 Era Diesel
+name_Hyundai i20 Magna
+name_Hyundai i20 Magna 1.2
+name_Hyundai i20 Magna 1.4 CRDi
+name_Hyundai i20 Magna 1.4 CRDi (Diesel)
+name_Hyundai i20 Magna Optional 1.2
+name_Hyundai i20 Magna Optional 1.4 CRDi
+name_Hyundai i20 Petrol CVT Asta
+name_Hyundai i20 Sportz 1.2
+name_Hyundai i20 Sportz 1.4 CRDi
+name_Hyundai i20 Sportz AT 1.4
+name_Hyundai i20 Sportz Diesel
+name_Hyundai i20 Sportz Option 1.2
+name_Hyundai i20 Sportz Option 1.4 CRDi
+name_Isuzu D-Max V-Cross 4X4
+name_Isuzu D-Max V-Cross Z Prestige
+name_Isuzu MU 7 AT Premium
+name_Isuzu MUX 2WD
+name_Jaguar XE 2016-2019 2.0L Diesel Prestige
+name_Jaguar XF 2.0 Diesel Portfolio
+name_Jaguar XF 2.2 Litre Luxury
+name_Jaguar XF 3.0 Litre S Premium Luxury
+name_Jaguar XF Diesel
+name_Jeep Compass 1.4 Limited
+name_Jeep Compass 1.4 Limited Plus BSIV
+name_Jeep Compass 1.4 Sport
+name_Jeep Compass 2.0 Limited
+name_Jeep Compass 2.0 Limited 4X4
+name_Jeep Compass 2.0 Limited Option
+name_Jeep Compass 2.0 Limited Option 4X4
+name_Jeep Compass 2.0 Limited Plus 4X4
+name_Jeep Compass 2.0 Longitude BSIV
+name_Jeep Compass 2.0 Longitude Option BSIV
+name_Jeep Wrangler 2016-2019 3.6 4X4
+name_Kia Seltos HTE D
+name_Kia Seltos HTX Plus AT D
+name_Land Rover Discovery Sport TD4 SE
+name_Land Rover Freelander 2 TD4 HSE
+name_Land Rover Range Rover Evoque 2.2L Pure
+name_Lexus ES 300h
+name_MG Hector Sharp AT BSIV
+name_MG Hector Sharp DCT Dualtone
+name_MG Hector Smart DCT
+name_Mahindra Bolero 2011-2019 Camper
+name_Mahindra Bolero 2011-2019 DI - AC BS III
+name_Mahindra Bolero 2011-2019 DI 4WD NON AC
+name_Mahindra Bolero 2011-2019 DI BSIII
+name_Mahindra Bolero 2011-2019 DI NON AC BS III SILVER
+name_Mahindra Bolero 2011-2019 DI NON AC BS III White
+name_Mahindra Bolero 2011-2019 EX AC
+name_Mahindra Bolero 2011-2019 EX NON AC
+name_Mahindra Bolero 2011-2019 Plus - AC BSIII
+name_Mahindra Bolero 2011-2019 Plus AC
+name_Mahindra Bolero 2011-2019 Plus Non AC
+name_Mahindra Bolero 2011-2019 Plus Non AC BSIV PS
+name_Mahindra Bolero 2011-2019 Plus-AC Plus PS BSIII
+name_Mahindra Bolero 2011-2019 SLE
+name_Mahindra Bolero 2011-2019 SLE BSIII
+name_Mahindra Bolero 2011-2019 SLX
+name_Mahindra Bolero 2011-2019 SLX 2WD BSIII
+name_Mahindra Bolero 2011-2019 Special Edition
+name_Mahindra Bolero 2011-2019 ZLX
+name_Mahindra Bolero 2011-2019 ZLX BSIII
+name_Mahindra Bolero 2011-2019 mHAWK D70 ZLX
+name_Mahindra Bolero B2
+name_Mahindra Bolero B4
+name_Mahindra Bolero DI
+name_Mahindra Bolero DI AC BSIII
+name_Mahindra Bolero DI BSIII
+name_Mahindra Bolero DI DX 7 Seater
+name_Mahindra Bolero DI DX 8 Seater
+name_Mahindra Bolero DI Non AC BSIII
+name_Mahindra Bolero GLX
+name_Mahindra Bolero LX
+name_Mahindra Bolero LX Non AC BSIII
+name_Mahindra Bolero PLUS AC
+name_Mahindra Bolero PLUS AC BSIII
+name_Mahindra Bolero Pik-Up CBC 1.7T
+name_Mahindra Bolero Pik-Up FB 1.7T
+name_Mahindra Bolero Power Plus LX
+name_Mahindra Bolero Power Plus Plus AC BSIV PS
+name_Mahindra Bolero Power Plus Plus Non AC BSIV PS
+name_Mahindra Bolero Power Plus SLE
+name_Mahindra Bolero Power Plus SLX
+name_Mahindra Bolero Power Plus ZLX
+name_Mahindra Bolero SLE
+name_Mahindra Bolero SLE BSIII
+name_Mahindra Bolero SLX
+name_Mahindra Bolero SLX 2WD
+name_Mahindra Bolero SLX 2WD BSIII
+name_Mahindra Bolero SLX 4WD BSIII
+name_Mahindra Bolero VLX CRDe
+name_Mahindra Bolero XL 10 Seater Non AC
+name_Mahindra Bolero ZLX BSIII
+name_Mahindra Ingenio CRDe
+name_Mahindra Jeep CL 500 MDI
+name_Mahindra Jeep Classic
+name_Mahindra Jeep MM 540
+name_Mahindra Jeep MM 550 XDB
+name_Mahindra KUV 100 D75 K4 Plus
+name_Mahindra KUV 100 D75 K6 Plus
+name_Mahindra KUV 100 D75 K6 Plus 5Str
+name_Mahindra KUV 100 D75 K8
+name_Mahindra KUV 100 D75 K8 Dual Tone
+name_Mahindra KUV 100 G80 K2
+name_Mahindra KUV 100 G80 K4 Plus
+name_Mahindra KUV 100 G80 K4 Plus 5Str
+name_Mahindra KUV 100 G80 K6 Plus
+name_Mahindra KUV 100 G80 K8
+name_Mahindra KUV 100 G80 K8 Dual Tone
+name_Mahindra KUV 100 mFALCON D75 K2
+name_Mahindra KUV 100 mFALCON D75 K2 Plus
+name_Mahindra KUV 100 mFALCON D75 K4
+name_Mahindra KUV 100 mFALCON D75 K6
+name_Mahindra KUV 100 mFALCON D75 K6 Plus
+name_Mahindra KUV 100 mFALCON D75 K8
+name_Mahindra KUV 100 mFALCON G80 K2
+name_Mahindra KUV 100 mFALCON G80 K4
+name_Mahindra KUV 100 mFALCON G80 K4 Plus 5str
+name_Mahindra KUV 100 mFALCON G80 K6 AW
+name_Mahindra KUV 100 mFALCON G80 K8
+name_Mahindra KUV 100 mFALCON G80 K8 5str
+name_Mahindra KUV 100 mFALCON G80 K8 5str AW
+name_Mahindra KUV 100 mFALCON G80 K8 Dual Tone
+name_Mahindra Logan Diesel 1.5 DLE
+name_Mahindra Logan Diesel 1.5 DLS
+name_Mahindra Logan Petrol 1.4 GLE
+name_Mahindra Marazzo M2 8Str BSIV
+name_Mahindra Marazzo M2 BSIV
+name_Mahindra Marazzo M6
+name_Mahindra Marazzo M6 8Str
+name_Mahindra Marazzo M8
+name_Mahindra Marshal DI
+name_Mahindra NuvoSport N8
+name_Mahindra NuvoSport N8 AMT
+name_Mahindra Quanto C2
+name_Mahindra Quanto C4
+name_Mahindra Quanto C6
+name_Mahindra Quanto C8
+name_Mahindra Renault Logan 1.4 GLX Petrol
+name_Mahindra Renault Logan 1.5 DLE Diesel
+name_Mahindra Renault Logan 1.5 DLX Diesel
+name_Mahindra Renault Logan 1.5 Diesel DLSX
+name_Mahindra Scorpio 1.99 S10
+name_Mahindra Scorpio 1.99 S10 4WD
+name_Mahindra Scorpio 1.99 S4
+name_Mahindra Scorpio 1.99 S4 Plus
+name_Mahindra Scorpio 1.99 S6 Plus
+name_Mahindra Scorpio 1.99 S8
+name_Mahindra Scorpio 2.6 CRDe
+name_Mahindra Scorpio 2.6 CRDe SLE
+name_Mahindra Scorpio 2.6 DX
+name_Mahindra Scorpio 2.6 SLX Turbo 7 Seater
+name_Mahindra Scorpio 2.6 SPORTZ CRDe
+name_Mahindra Scorpio 2.6 Turbo 7 Str
+name_Mahindra Scorpio 2.6 Turbo 9 Str
+name_Mahindra Scorpio 2006-2009 LX 2.6 Turbo 9 Str
+name_Mahindra Scorpio 2006-2009 VLX 2WD 7 Str BSIII
+name_Mahindra Scorpio 2009-2014 EX 2WD 7S
+name_Mahindra Scorpio 2009-2014 EX 2WD 9S
+name_Mahindra Scorpio 2009-2014 EX 9S BSIII
+name_Mahindra Scorpio 2009-2014 SLE 7S BSIII
+name_Mahindra Scorpio 2009-2014 SLE 7S BSIV
+name_Mahindra Scorpio 2009-2014 VLX 2WD 7S BSIV
+name_Mahindra Scorpio EX
+name_Mahindra Scorpio Gateway 2WD
+name_Mahindra Scorpio Getaway
+name_Mahindra Scorpio Intelli Hybrid S10
+name_Mahindra Scorpio Intelli Hybrid S10 4WD
+name_Mahindra Scorpio Intelli Hybrid S6 Plus
+name_Mahindra Scorpio LX
+name_Mahindra Scorpio LX 2.6 Turbo
+name_Mahindra Scorpio LX BSIV
+name_Mahindra Scorpio M2DI
+name_Mahindra Scorpio S10 4WD
+name_Mahindra Scorpio S10 7 Seater
+name_Mahindra Scorpio S11 4WD BSIV
+name_Mahindra Scorpio S11 BSIV
+name_Mahindra Scorpio S2 7 Seater
+name_Mahindra Scorpio S2 9 Seater
+name_Mahindra Scorpio S3 9 Seater BSIV
+name_Mahindra Scorpio S4 7 Seater
+name_Mahindra Scorpio S4 9 Seater
+name_Mahindra Scorpio S4 Plus
+name_Mahindra Scorpio S4 Plus 4WD
+name_Mahindra Scorpio S5 BSIV
+name_Mahindra Scorpio S7 120
+name_Mahindra Scorpio SLE BS IV
+name_Mahindra Scorpio SLE BSIII
+name_Mahindra Scorpio SLE BSIV
+name_Mahindra Scorpio SLX 2.6 Turbo 8 Str
+name_Mahindra Scorpio SLX 4WD
+name_Mahindra Scorpio SLX 4WD LE
+name_Mahindra Scorpio VLS 2.2 mHawk
+name_Mahindra Scorpio VLS AT 2.2 mHAWK
+name_Mahindra Scorpio VLX 2WD ABS AT BSIII
+name_Mahindra Scorpio VLX 2WD AIRBAG AT BSIV
+name_Mahindra Scorpio VLX 2WD AIRBAG BSIII
+name_Mahindra Scorpio VLX 2WD AIRBAG BSIV
+name_Mahindra Scorpio VLX 2WD AIRBAG SE BSIV
+name_Mahindra Scorpio VLX 2WD AT BSIII
+name_Mahindra Scorpio VLX 2WD BSIII
+name_Mahindra Scorpio VLX 2WD BSIV
+name_Mahindra Scorpio VLX 4WD AIRBAG AT BSIV
+name_Mahindra Scorpio VLX 4WD AIRBAG BSIV
+name_Mahindra Scorpio VLX AT AIRBAG BSIV
+name_Mahindra Ssangyong Rexton RX5
+name_Mahindra Ssangyong Rexton RX7
+name_Mahindra Supro LX 8 Str
+name_Mahindra TUV 300 Plus P4 BSIV
+name_Mahindra TUV 300 T10
+name_Mahindra TUV 300 T4
+name_Mahindra TUV 300 T4 Plus
+name_Mahindra TUV 300 T6
+name_Mahindra TUV 300 T6 Plus
+name_Mahindra TUV 300 T6 Plus AMT
+name_Mahindra TUV 300 T8
+name_Mahindra TUV 300 T8 AMT
+name_Mahindra TUV 300 mHAWK100 T8
+name_Mahindra TUV 300 mHAWK100 T8 AMT
+name_Mahindra TUV 300 mHAWK100 T8 Dual Tone
+name_Mahindra Thar 4X4
+name_Mahindra Thar CRDe
+name_Mahindra Thar CRDe ABS
+name_Mahindra Thar CRDe AC
+name_Mahindra Thar DI 4X4
+name_Mahindra Thar DI 4X4 PS
+name_Mahindra Verito 1.4 G4 BSIV
+name_Mahindra Verito 1.5 D2 BSIII
+name_Mahindra Verito 1.5 D2 BSIV
+name_Mahindra Verito 1.5 D4 BSIII
+name_Mahindra Verito 1.5 D4 BSIV
+name_Mahindra Verito 1.5 D6 BSIII
+name_Mahindra Verito 1.5 D6 BSIV
+name_Mahindra Verito 1.6 G6 Executive BSIII
+name_Mahindra Verito Vibe 1.5 dCi D4
+name_Mahindra Verito Vibe 1.5 dCi D6
+name_Mahindra Willys CJ 3B 4X4
+name_Mahindra XUV300 W6 Diesel BSIV
+name_Mahindra XUV300 W8
+name_Mahindra XUV300 W8 Option BSIV
+name_Mahindra XUV300 W8 Option Diesel BSIV
+name_Mahindra XUV300 W8 Option Dual Tone Diesel BSIV
+name_Mahindra XUV500 AT W10 AWD
+name_Mahindra XUV500 AT W10 FWD
+name_Mahindra XUV500 AT W6 1.99 mHawk
+name_Mahindra XUV500 AT W6 2WD
+name_Mahindra XUV500 AT W8 FWD
+name_Mahindra XUV500 AT W9 2WD
+name_Mahindra XUV500 W10 1.99 mHawk
+name_Mahindra XUV500 W10 2WD
+name_Mahindra XUV500 W10 AWD
+name_Mahindra XUV500 W11 AT BSIV
+name_Mahindra XUV500 W11 BSIV
+name_Mahindra XUV500 W11 Option AWD
+name_Mahindra XUV500 W11 Option BSIV
+name_Mahindra XUV500 W4
+name_Mahindra XUV500 W4 1.99 mHawk
+name_Mahindra XUV500 W5 BSIV
+name_Mahindra XUV500 W6 2WD
+name_Mahindra XUV500 W7
+name_Mahindra XUV500 W7 BSIV
+name_Mahindra XUV500 W8 2WD
+name_Mahindra XUV500 W8 4WD
+name_Mahindra XUV500 W8 AWD
+name_Mahindra XUV500 W9 2WD
+name_Mahindra XUV500 W9 BSIV
+name_Mahindra Xylo D2
+name_Mahindra Xylo D2 BS III
+name_Mahindra Xylo D2 BS IV
+name_Mahindra Xylo D2 BSIV
+name_Mahindra Xylo D2 Maxx
+name_Mahindra Xylo D4
+name_Mahindra Xylo D4 BSIII
+name_Mahindra Xylo D4 BSIV
+name_Mahindra Xylo E4
+name_Mahindra Xylo E4 8S
+name_Mahindra Xylo E4 ABS BS IV
+name_Mahindra Xylo E4 BS III
+name_Mahindra Xylo E4 BS IV
+name_Mahindra Xylo E6
+name_Mahindra Xylo E8
+name_Mahindra Xylo E8 ABS Airbag
+name_Mahindra Xylo E8 ABS Airbag BSIV
+name_Mahindra Xylo E8 BS4
+name_Mahindra Xylo H4
+name_Mahindra Xylo H9
+name_Maruti 800 AC
+name_Maruti 800 AC BSII
+name_Maruti 800 AC BSIII
+name_Maruti 800 AC LPG
+name_Maruti 800 AC Uniq
+name_Maruti 800 DX
+name_Maruti 800 DX 5 Speed
+name_Maruti 800 DX BSII
+name_Maruti 800 EX
+name_Maruti 800 EX 5 Speed
+name_Maruti 800 EX BSII
+name_Maruti 800 Std
+name_Maruti 800 Std BSII
+name_Maruti 800 Std BSIII
+name_Maruti 800 Std MPFi
+name_Maruti 800 Uniq
+name_Maruti A-Star Lxi
+name_Maruti A-Star Vxi
+name_Maruti A-Star Zxi
+name_Maruti Alto 800 Base
+name_Maruti Alto 800 CNG LXI
+name_Maruti Alto 800 CNG LXI Optional
+name_Maruti Alto 800 LX
+name_Maruti Alto 800 LX Optional
+name_Maruti Alto 800 LXI
+name_Maruti Alto 800 LXI Airbag
+name_Maruti Alto 800 LXI Anniversary Edition
+name_Maruti Alto 800 LXI BSIV
+name_Maruti Alto 800 LXI CNG
+name_Maruti Alto 800 LXI Optional
+name_Maruti Alto 800 VXI
+name_Maruti Alto 800 VXI BSIV
+name_Maruti Alto 800 VXI Optional
+name_Maruti Alto 800 VXI Plus
+name_Maruti Alto AX
+name_Maruti Alto Green LXi (CNG)
+name_Maruti Alto K10 2010-2014 VXI
+name_Maruti Alto K10 Knightracer
+name_Maruti Alto K10 LX
+name_Maruti Alto K10 LXI
+name_Maruti Alto K10 LXI CNG
+name_Maruti Alto K10 VXI
+name_Maruti Alto K10 VXI AGS
+name_Maruti Alto K10 VXI AGS Optional
+name_Maruti Alto K10 VXI Airbag
+name_Maruti Alto K10 VXI Optional
+name_Maruti Alto LX
+name_Maruti Alto LX BSIII
+name_Maruti Alto LXI
+name_Maruti Alto LXi
+name_Maruti Alto LXi BSIII
+name_Maruti Alto STD
+name_Maruti Alto Std
+name_Maruti Baleno Alpha
+name_Maruti Baleno Alpha 1.2
+name_Maruti Baleno Alpha 1.3
+name_Maruti Baleno Alpha Automatic
+name_Maruti Baleno Alpha CVT
+name_Maruti Baleno Alpha Diesel
+name_Maruti Baleno Delta
+name_Maruti Baleno Delta 1.2
+name_Maruti Baleno Delta 1.3
+name_Maruti Baleno Delta Automatic
+name_Maruti Baleno Delta Diesel
+name_Maruti Baleno LXI
+name_Maruti Baleno RS 1.0 Petrol
+name_Maruti Baleno Sigma
+name_Maruti Baleno Sigma 1.2
+name_Maruti Baleno Sigma 1.3
+name_Maruti Baleno Zeta
+name_Maruti Baleno Zeta 1.2
+name_Maruti Baleno Zeta 1.3
+name_Maruti Baleno Zeta Automatic
+name_Maruti Baleno Zeta Diesel
+name_Maruti Celerio LDi
+name_Maruti Celerio LXI
+name_Maruti Celerio VDi
+name_Maruti Celerio VXI
+name_Maruti Celerio VXI AT
+name_Maruti Celerio VXI MT BSIV
+name_Maruti Celerio VXi AMT
+name_Maruti Celerio X VXI
+name_Maruti Celerio X VXI Option BSIV
+name_Maruti Celerio X ZXI
+name_Maruti Celerio X ZXI BSIV
+name_Maruti Celerio X ZXI Option BSIV
+name_Maruti Celerio ZDi
+name_Maruti Celerio ZXI
+name_Maruti Celerio ZXI AMT BSIV
+name_Maruti Celerio ZXI AT
+name_Maruti Celerio ZXI MT BSIV
+name_Maruti Celerio ZXI Optional
+name_Maruti Celerio ZXI Optional AMT BSIV
+name_Maruti Celerio ZXI Optional MT BSIV
+name_Maruti Ciaz 1.3 Alpha
+name_Maruti Ciaz 1.3 Sigma
+name_Maruti Ciaz 1.3 Zeta
+name_Maruti Ciaz 1.4 Alpha
+name_Maruti Ciaz 1.4 Sigma
+name_Maruti Ciaz AT ZXi
+name_Maruti Ciaz Alpha Diesel
+name_Maruti Ciaz Delta Automatic BSIV
+name_Maruti Ciaz Delta BSIV
+name_Maruti Ciaz RS ZDi Plus SHVS
+name_Maruti Ciaz RS ZXi Plus
+name_Maruti Ciaz S 1.3
+name_Maruti Ciaz VDI SHVS
+name_Maruti Ciaz VDi Option SHVS
+name_Maruti Ciaz VDi Plus
+name_Maruti Ciaz VDi Plus SHVS
+name_Maruti Ciaz VXi Plus
+name_Maruti Ciaz ZDi
+name_Maruti Ciaz ZDi Plus
+name_Maruti Ciaz ZDi Plus SHVS
+name_Maruti Ciaz ZXi
+name_Maruti Ciaz ZXi Plus
+name_Maruti Ciaz Zeta
+name_Maruti Ciaz Zeta Diesel
+name_Maruti Dzire LXI
+name_Maruti Dzire VXI
+name_Maruti Dzire ZXI
+name_Maruti Eeco 5 STR With AC Plus HTR CNG
+name_Maruti Eeco 5 Seater AC BSIV
+name_Maruti Eeco 7 Seater Standard BSIV
+name_Maruti Eeco CNG 5 Seater AC
+name_Maruti Eeco CNG 5 Seater AC BSIV
+name_Maruti Eeco CNG HTR 5-STR
+name_Maruti Eeco Smiles 5 Seater AC
+name_Maruti Eeco Smiles 7 Seater Standard
+name_Maruti Ertiga 1.5 VDI
+name_Maruti Ertiga 1.5 ZDI
+name_Maruti Ertiga BSIV LXI
+name_Maruti Ertiga BSIV VXI
+name_Maruti Ertiga BSIV ZXI Plus
+name_Maruti Ertiga LDI
+name_Maruti Ertiga LDI Option
+name_Maruti Ertiga LXI
+name_Maruti Ertiga SHVS LDI Option
+name_Maruti Ertiga SHVS VDI
+name_Maruti Ertiga SHVS ZDI
+name_Maruti Ertiga SHVS ZDI Plus
+name_Maruti Ertiga VDI
+name_Maruti Ertiga VXI
+name_Maruti Ertiga VXI CNG Limited Edition
+name_Maruti Ertiga VXI Limited Edition
+name_Maruti Ertiga VXI Petrol
+name_Maruti Ertiga ZDI
+name_Maruti Ertiga ZDI Plus
+name_Maruti Ertiga ZXI
+name_Maruti Ertiga ZXI Plus Petrol
+name_Maruti Esteem AX
+name_Maruti Esteem DI
+name_Maruti Esteem LX
+name_Maruti Esteem LX - BSIII
+name_Maruti Esteem Lxi
+name_Maruti Esteem Lxi - BSIII
+name_Maruti Esteem Vxi - BSII
+name_Maruti Esteem Vxi - BSIII
+name_Maruti Estilo LXI
+name_Maruti Gypsy King ST BSIII
+name_Maruti Gypsy King Soft Top
+name_Maruti Gypsy King Soft Top MPI BSIV
+name_Maruti Ignis 1.2 AMT Alpha BSIV
+name_Maruti Ignis 1.2 AMT Delta BSIV
+name_Maruti Ignis 1.2 AMT Zeta BSIV
+name_Maruti Ignis 1.2 Alpha BSIV
+name_Maruti Ignis 1.2 Delta BSIV
+name_Maruti Ignis 1.2 Zeta BSIV
+name_Maruti Ignis 1.3 AMT Zeta
+name_Maruti Ignis 1.3 Alpha
+name_Maruti Ignis Zeta
+name_Maruti Ignis Zeta AMT
+name_Maruti Omni 5 Seater BSIV
+name_Maruti Omni 5 Str STD
+name_Maruti Omni 8 Seater BSII
+name_Maruti Omni 8 Seater BSIV
+name_Maruti Omni BSIII 8-STR W/ IMMOBILISER
+name_Maruti Omni CNG
+name_Maruti Omni E 8 Str STD
+name_Maruti Omni E MPI STD BS IV
+name_Maruti Omni LPG CARGO BSIII W IMMOBILISER
+name_Maruti Omni LPG STD BSIV
+name_Maruti Omni Limited Edition
+name_Maruti Omni MPI CARGO BSIV
+name_Maruti Omni MPI STD BSIII 8-STR W/ IMMOBILISER
+name_Maruti Omni MPI STD BSIV
+name_Maruti Ritz Genus VDi
+name_Maruti Ritz LDi
+name_Maruti Ritz LXI
+name_Maruti Ritz LXi
+name_Maruti Ritz VDi
+name_Maruti Ritz VDi ABS
+name_Maruti Ritz VXI
+name_Maruti Ritz VXi
+name_Maruti Ritz VXi (ABS) BS IV
+name_Maruti Ritz ZDi
+name_Maruti Ritz ZXi
+name_Maruti S-Cross 2017-2020 Alpha DDiS 200 SH
+name_Maruti S-Cross 2017-2020 Delta DDiS 200 SH
+name_Maruti S-Cross 2017-2020 Sigma DDiS 200 SH
+name_Maruti S-Cross 2017-2020 Zeta DDiS 200 SH
+name_Maruti S-Presso VXI AT
+name_Maruti SX4 Celebration Diesel
+name_Maruti SX4 Green Vxi (CNG)
+name_Maruti SX4 S Cross 2015-2017 DDiS 200 Alpha
+name_Maruti SX4 S Cross 2015-2017 DDiS 200 Sigma
+name_Maruti SX4 S Cross 2015-2017 DDiS 200 Zeta
+name_Maruti SX4 VDI
+name_Maruti SX4 Vxi BSIII
+name_Maruti SX4 Vxi BSIV
+name_Maruti SX4 ZDI
+name_Maruti SX4 ZDI Leather
+name_Maruti SX4 ZXI AT
+name_Maruti SX4 ZXI AT Leather
+name_Maruti SX4 ZXI MT BSIV
+name_Maruti SX4 ZXI MT BSIV Leather
+name_Maruti SX4 Zxi BSIII
+name_Maruti SX4 Zxi with Leather BSIII
+name_Maruti Swift 1.2 DLX (Only Delhi)
+name_Maruti Swift 1.3 LXI
+name_Maruti Swift 1.3 VXi
+name_Maruti Swift 1.3 ZXI
+name_Maruti Swift AMT VDI
+name_Maruti Swift AMT VVT VXI
+name_Maruti Swift AMT VXI
+name_Maruti Swift AMT ZDI
+name_Maruti Swift AMT ZXI
+name_Maruti Swift AMT ZXI BSIV
+name_Maruti Swift AMT ZXI Plus BSIV
+name_Maruti Swift DDiS LDI
+name_Maruti Swift DDiS VDI
+name_Maruti Swift Dzire 1.2 Lxi BSIV
+name_Maruti Swift Dzire 1.2 Vxi BSIV
+name_Maruti Swift Dzire AMT VDI
+name_Maruti Swift Dzire AMT VXI
+name_Maruti Swift Dzire AMT VXI BS IV
+name_Maruti Swift Dzire AMT ZDI
+name_Maruti Swift Dzire AMT ZDI Plus
+name_Maruti Swift Dzire AMT ZXI
+name_Maruti Swift Dzire AMT ZXI Plus
+name_Maruti Swift Dzire LDI
+name_Maruti Swift Dzire LDI Optional
+name_Maruti Swift Dzire LDIX Limited Edition
+name_Maruti Swift Dzire LDi
+name_Maruti Swift Dzire LXI
+name_Maruti Swift Dzire LXI 1.2 BS IV
+name_Maruti Swift Dzire LXi
+name_Maruti Swift Dzire Ldi BSIV
+name_Maruti Swift Dzire Tour LDI
+name_Maruti Swift Dzire Tour S CNG
+name_Maruti Swift Dzire VDI
+name_Maruti Swift Dzire VDI Optional
+name_Maruti Swift Dzire VDi
+name_Maruti Swift Dzire VXI
+name_Maruti Swift Dzire VXI 1.2
+name_Maruti Swift Dzire VXI 1.2 BS IV
+name_Maruti Swift Dzire VXI Optional
+name_Maruti Swift Dzire VXi
+name_Maruti Swift Dzire VXi AT
+name_Maruti Swift Dzire Vdi BSIV
+name_Maruti Swift Dzire ZDI
+name_Maruti Swift Dzire ZDI Plus
+name_Maruti Swift Dzire ZDi
+name_Maruti Swift Dzire ZXI
+name_Maruti Swift Dzire ZXI Plus
+name_Maruti Swift Dzire ZXI Plus BS IV
+name_Maruti Swift Dzire ZXi
+name_Maruti Swift Dzire Zdi BSIV
+name_Maruti Swift Glam
+name_Maruti Swift LDI
+name_Maruti Swift LDI BSIV
+name_Maruti Swift LDI Optional
+name_Maruti Swift LDI SP Limited Edition
+name_Maruti Swift LXI
+name_Maruti Swift LXI Option
+name_Maruti Swift LXI Optional-O
+name_Maruti Swift LXi BSIV
+name_Maruti Swift Ldi BSIII
+name_Maruti Swift Ldi BSIV
+name_Maruti Swift Lxi BSIII
+name_Maruti Swift Star VDI
+name_Maruti Swift VDI
+name_Maruti Swift VDI BSIV
+name_Maruti Swift VDI BSIV W ABS
+name_Maruti Swift VDI Deca
+name_Maruti Swift VDI Optional
+name_Maruti Swift VDI Windsong Limited edition
+name_Maruti Swift VDi BSIII W/ ABS
+name_Maruti Swift VVT VXI
+name_Maruti Swift VVT ZXI
+name_Maruti Swift VXI
+name_Maruti Swift VXI 2018
+name_Maruti Swift VXI BSIII
+name_Maruti Swift VXI BSIII W/ ABS
+name_Maruti Swift VXI BSIV
+name_Maruti Swift VXI Deca
+name_Maruti Swift VXI Optional
+name_Maruti Swift VXI Windsong Limited edition
+name_Maruti Swift VXI with ABS
+name_Maruti Swift VXi BSIV
+name_Maruti Swift Vdi BSIII
+name_Maruti Swift ZDI BSIV
+name_Maruti Swift ZDI Plus
+name_Maruti Swift ZDi
+name_Maruti Swift ZXI
+name_Maruti Swift ZXI 2018
+name_Maruti Swift ZXI ABS
+name_Maruti Swift ZXI BSIII
+name_Maruti Swift ZXI BSIV
+name_Maruti Swift ZXI Plus
+name_Maruti Vitara Brezza LDi
+name_Maruti Vitara Brezza LDi Option
+name_Maruti Vitara Brezza VDi
+name_Maruti Vitara Brezza VDi AMT
+name_Maruti Vitara Brezza VDi Option
+name_Maruti Vitara Brezza ZDi
+name_Maruti Vitara Brezza ZDi AMT
+name_Maruti Vitara Brezza ZDi Plus
+name_Maruti Vitara Brezza ZDi Plus AMT
+name_Maruti Vitara Brezza ZDi Plus AMT Dual Tone
+name_Maruti Vitara Brezza ZDi Plus Dual Tone
+name_Maruti Vitara Brezza ZXI Plus AT Dual Tone
+name_Maruti Wagon R AMT VXI
+name_Maruti Wagon R AMT VXI Option
+name_Maruti Wagon R AMT VXI Plus
+name_Maruti Wagon R AX
+name_Maruti Wagon R AX BSIII
+name_Maruti Wagon R AX BSIV
+name_Maruti Wagon R AX Minor
+name_Maruti Wagon R CNG LXI
+name_Maruti Wagon R Duo Lxi
+name_Maruti Wagon R LX
+name_Maruti Wagon R LX BSIII
+name_Maruti Wagon R LX Minor
+name_Maruti Wagon R LXI
+name_Maruti Wagon R LXI BS IV
+name_Maruti Wagon R LXI BSIII
+name_Maruti Wagon R LXI CNG
+name_Maruti Wagon R LXI CNG Optional
+name_Maruti Wagon R LXI DUO BS IV
+name_Maruti Wagon R LXI DUO BSIII
+name_Maruti Wagon R LXI LPG BSIV
+name_Maruti Wagon R LXI Minor
+name_Maruti Wagon R LXI Optional
+name_Maruti Wagon R PRIMEA
+name_Maruti Wagon R Stingray VXI
+name_Maruti Wagon R Stingray VXI Optional
+name_Maruti Wagon R VXI
+name_Maruti Wagon R VXI 1.2
+name_Maruti Wagon R VXI AMT 1.2
+name_Maruti Wagon R VXI AMT Opt 1.2
+name_Maruti Wagon R VXI BS IV
+name_Maruti Wagon R VXI BS IV with ABS
+name_Maruti Wagon R VXI BSIII
+name_Maruti Wagon R VXI Minor
+name_Maruti Wagon R VXI Opt 1.2
+name_Maruti Wagon R VXI Optional
+name_Maruti Wagon R VXI Plus
+name_Maruti Wagon R VXI Plus Optional
+name_Maruti Wagon R VXi BSII
+name_Maruti XL6 Alpha
+name_Maruti Zen Base
+name_Maruti Zen Classic
+name_Maruti Zen D
+name_Maruti Zen Estilo 1.1 LX BSIII
+name_Maruti Zen Estilo 1.1 LXI BSIII
+name_Maruti Zen Estilo 1.1 VXI BSIII
+name_Maruti Zen Estilo LX BSIV
+name_Maruti Zen Estilo LXI BS IV
+name_Maruti Zen Estilo LXI BSIII
+name_Maruti Zen Estilo LXI Green (CNG)
+name_Maruti Zen Estilo Sports
+name_Maruti Zen Estilo VXI BSIII
+name_Maruti Zen Estilo VXI BSIV
+name_Maruti Zen Estilo VXI BSIV W ABS
+name_Maruti Zen LX
+name_Maruti Zen LX - BS III
+name_Maruti Zen LX BSII
+name_Maruti Zen LXI
+name_Maruti Zen LXi - BS III
+name_Maruti Zen Std
+name_Maruti Zen VXI
+name_Maruti Zen VXi - BS III
+name_Mercedes-Benz B Class B180
+name_Mercedes-Benz B Class B180 Sports
+name_Mercedes-Benz B Class B200 CDI Sport
+name_Mercedes-Benz CLA 200 CGI Sport
+name_Mercedes-Benz E-Class E 220 CDI Avantgarde
+name_Mercedes-Benz E-Class E 250 Elegance
+name_Mercedes-Benz E-Class E250 CDI Avantgarde
+name_Mercedes-Benz E-Class E250 CDI Avantgrade
+name_Mercedes-Benz E-Class E250 CDI Elegance
+name_Mercedes-Benz E-Class E250 Edition E
+name_Mercedes-Benz E-Class E270 CDI
+name_Mercedes-Benz E-Class E350 Petrol
+name_Mercedes-Benz E-Class Exclusive E 200 BSIV
+name_Mercedes-Benz GL-Class 220d 4MATIC Sport
+name_Mercedes-Benz GL-Class 350 CDI Blue Efficiency
+name_Mercedes-Benz GL-Class 350 CDI Luxury
+name_Mercedes-Benz GLA Class 200
+name_Mercedes-Benz GLA Class 200 CDI
+name_Mercedes-Benz GLA Class 200 CDI SPORT
+name_Mercedes-Benz GLA Class 200 D Sport Edition
+name_Mercedes-Benz GLC 220d 4MATIC
+name_Mercedes-Benz M-Class ML 250 CDI
+name_Mercedes-Benz M-Class ML 350 4Matic
+name_Mercedes-Benz M-Class ML 350 CDI
+name_Mercedes-Benz New C-Class 200 K AT
+name_Mercedes-Benz New C-Class 220 CDI AT
+name_Mercedes-Benz New C-Class 250 CDI Classic
+name_Mercedes-Benz New C-Class C 200 AVANTGARDE
+name_Mercedes-Benz New C-Class C 200 Kompressor Elegance AT
+name_Mercedes-Benz New C-Class C 200 Kompressor Elegance MT
+name_Mercedes-Benz New C-Class C 220 CDI BE Avantgare
+name_Mercedes-Benz New C-Class C 220 CDI Elegance AT
+name_Mercedes-Benz New C-Class C 220 CDI Elegance MT
+name_Mercedes-Benz New C-Class C 250 CDI Elegance
+name_Mercedes-Benz S-Class S 350 CDI
+name_Mitsubishi Lancer 2.0 GLd
+name_Mitsubishi Lancer 2.0 L Diesel LX
+name_Mitsubishi Lancer 2.0 LXd
+name_Mitsubishi Pajero 2.8 SFX BSIII Single Tone
+name_Mitsubishi Pajero Sport 4X4
+name_Mitsubishi Pajero Sport 4X4 Dual Tone
+name_Mitsubishi Pajero Sport Anniversary Edition
+name_Nissan Kicks XL BSIV
+name_Nissan Kicks XV BSIV
+name_Nissan Kicks XV D BSIV
+name_Nissan Micra Active XL Petrol
+name_Nissan Micra Active XV
+name_Nissan Micra Active XV S
+name_Nissan Micra Diesel XL
+name_Nissan Micra Diesel XL Optional
+name_Nissan Micra Diesel XV
+name_Nissan Micra Diesel XV Premium
+name_Nissan Micra Fashion Edition XL CVT
+name_Nissan Micra XE
+name_Nissan Micra XL
+name_Nissan Micra XL Optional
+name_Nissan Micra XV
+name_Nissan Micra XV CVT
+name_Nissan Sunny Diesel XL
+name_Nissan Sunny Diesel XV
+name_Nissan Sunny XE
+name_Nissan Sunny XL
+name_Nissan Sunny XL AT Special Edition
+name_Nissan Sunny XL D
+name_Nissan Sunny XV
+name_Nissan Sunny XV D
+name_Nissan Sunny XV Special Edition
+name_Nissan Teana XL
+name_Nissan Terrano XE 85 PS
+name_Nissan Terrano XL
+name_Nissan Terrano XL 110 PS
+name_Nissan Terrano XL 85 PS
+name_Nissan Terrano XL D Option
+name_Nissan Terrano XL Plus 85 PS
+name_Nissan Terrano XV 110 PS
+name_Nissan Terrano XV D Premium AMT
+name_Nissan Terrano XV Premium 110 PS
+name_Opel Astra 1.6
+name_Peugeot 309 GLD
+name_Renault Captur 1.5 Diesel RXT
+name_Renault Duster 110PS Diesel RXZ Optional with Nav
+name_Renault Duster 110PS Diesel RxL
+name_Renault Duster 110PS Diesel RxL AMT
+name_Renault Duster 110PS Diesel RxL Explore
+name_Renault Duster 110PS Diesel RxZ
+name_Renault Duster 110PS Diesel RxZ Plus
+name_Renault Duster 4x4
+name_Renault Duster 85PS Diesel RxE
+name_Renault Duster 85PS Diesel RxE Adventure
+name_Renault Duster 85PS Diesel RxL
+name_Renault Duster 85PS Diesel RxL Explore
+name_Renault Duster 85PS Diesel RxL Option
+name_Renault Duster 85PS Diesel RxL Optional
+name_Renault Duster 85PS Diesel RxL Optional with Nav
+name_Renault Duster 85PS Diesel RxL Plus
+name_Renault Duster 85PS Diesel RxS
+name_Renault Duster 85PS Diesel RxZ
+name_Renault Duster 85PS Diesel STD
+name_Renault Duster Adventure Edition
+name_Renault Duster Adventure Edition RXZ AWD
+name_Renault Duster Petrol RXS CVT
+name_Renault Duster RXL AWD
+name_Renault Duster RXZ 110PS AMT BSIV
+name_Renault Fluence 1.5
+name_Renault Fluence 2.0
+name_Renault Fluence Diesel E4
+name_Renault KWID 1.0
+name_Renault KWID 1.0 RXL
+name_Renault KWID 1.0 RXT 02 Anniversary Edition
+name_Renault KWID 1.0 RXT AMT Opt
+name_Renault KWID 1.0 RXT BSIV
+name_Renault KWID 1.0 RXT Optional
+name_Renault KWID AMT
+name_Renault KWID AMT RXL
+name_Renault KWID Climber 1.0 AMT
+name_Renault KWID Climber 1.0 MT
+name_Renault KWID Climber 1.0 MT BSIV
+name_Renault KWID RXE
+name_Renault KWID RXL
+name_Renault KWID RXT
+name_Renault KWID RXT Optional
+name_Renault Koleos 2.0 Diesel
+name_Renault Lodgy 85PS RxE
+name_Renault Lodgy 85PS RxE 7 Seater
+name_Renault Lodgy 85PS RxL
+name_Renault Lodgy 85PS RxZ
+name_Renault Lodgy 85PS Std
+name_Renault Lodgy Stepway 110PS RXZ 7S
+name_Renault Lodgy Stepway 85PS RXZ 8S
+name_Renault Lodgy World Edition 110PS
+name_Renault Pulse RxL
+name_Renault Pulse RxL Optional
+name_Renault Pulse RxZ
+name_Renault Pulse RxZ Optional
+name_Renault Scala Diesel RxE
+name_Renault Scala Diesel RxL
+name_Renault Scala Diesel RxZ
+name_Renault Triber RXT BSIV
+name_Renault Triber RXZ
+name_Renault Triber RXZ BSIV
+name_Skoda Fabia 1.2 MPI Ambition
+name_Skoda Fabia 1.2 MPI Ambition Plus
+name_Skoda Fabia 1.2 TDI Active Plus
+name_Skoda Fabia 1.2 TDI Ambition Plus
+name_Skoda Fabia 1.2L Diesel Ambiente
+name_Skoda Fabia 1.2L Diesel Elegance
+name_Skoda Fabia 1.4 TDI Ambiente
+name_Skoda Fabia Scout 1.2 TDI
+name_Skoda Kodiaq 2.0 TDI Style
+name_Skoda Laura Ambiente
+name_Skoda Laura Ambiente 1.9 PD
+name_Skoda Laura Ambiente 2.0 TDI CR MT
+name_Skoda Octavia Ambiente 1.9 TDI
+name_Skoda Octavia Ambiente 1.9 TDI MT
+name_Skoda Octavia Ambition 2.0 TDI MT
+name_Skoda Octavia Classic 1.9 TDI MT
+name_Skoda Octavia Elegance 1.8 TSI AT
+name_Skoda Octavia L and K 1.9 TDI (MT)
+name_Skoda Octavia L and K 1.9 TDI MT
+name_Skoda Octavia RS 1.8 Turbo Petrol MT
+name_Skoda Octavia Rider 1.9 AT TDI
+name_Skoda Octavia Style Plus 2.0 TDI AT
+name_Skoda Rapid 1.5 TDI AT Ambition
+name_Skoda Rapid 1.5 TDI AT Ambition Plus
+name_Skoda Rapid 1.5 TDI AT Style BSIV
+name_Skoda Rapid 1.5 TDI AT Style Plus
+name_Skoda Rapid 1.5 TDI Active
+name_Skoda Rapid 1.5 TDI Ambition
+name_Skoda Rapid 1.5 TDI Ambition BSIV
+name_Skoda Rapid 1.5 TDI Ambition Plus
+name_Skoda Rapid 1.5 TDI Elegance
+name_Skoda Rapid 1.5 TDI Elegance Black Package
+name_Skoda Rapid 1.5 TDI Style Plus Black Package
+name_Skoda Rapid 1.6 MPI AT Ambition BSIV
+name_Skoda Rapid 1.6 MPI AT Elegance
+name_Skoda Rapid 1.6 MPI AT Style Plus
+name_Skoda Rapid 1.6 MPI Active BSIV
+name_Skoda Rapid 1.6 MPI Ambition
+name_Skoda Rapid 1.6 MPI Ambition BSIV
+name_Skoda Rapid 1.6 MPI Ambition Plus
+name_Skoda Rapid 1.6 MPI Elegance
+name_Skoda Rapid 1.6 TDI Ambition
+name_Skoda Rapid 1.6 TDI Ambition Plus
+name_Skoda Rapid 1.6 TDI Ambition Plus Alloy
+name_Skoda Rapid 1.6 TDI Elegance
+name_Skoda Rapid Monte Carlo 1.5 TDI AT BSIV
+name_Skoda Rapid Ultima 1.6 TDI Elegance
+name_Skoda Superb 1.8 TSI
+name_Skoda Superb Elegance 1.8 TSI AT
+name_Skoda Superb Elegance 2.0 TDI CR AT
+name_Skoda Superb LK 1.8 TSI AT
+name_Skoda Yeti Ambition 4WD
+name_Tata Aria Pleasure 4x2
+name_Tata Aria Prestige 4x2
+name_Tata Aria Pride
+name_Tata Aria Pure LX 4x2
+name_Tata Bolt Quadrajet XE
+name_Tata Bolt Quadrajet XM
+name_Tata Bolt Revotron XE
+name_Tata Bolt Revotron XM
+name_Tata Estate Std
+name_Tata Harrier XZ
+name_Tata Harrier XZ BSIV
+name_Tata Harrier XZ Dark Edition BSIV
+name_Tata Harrier XZ Plus
+name_Tata Hexa XE
+name_Tata Hexa XM
+name_Tata Hexa XT
+name_Tata Hexa XTA
+name_Tata Indica DLS
+name_Tata Indica DLX
+name_Tata Indica GLS BS IV
+name_Tata Indica V2 1.2 GLE BSIII
+name_Tata Indica V2 2001-2011 DLS BSIII
+name_Tata Indica V2 2001-2011 eLX
+name_Tata Indica V2 DL
+name_Tata Indica V2 DL BSIII
+name_Tata Indica V2 DLE BSII
+name_Tata Indica V2 DLE BSIII
+name_Tata Indica V2 DLG TC
+name_Tata Indica V2 DLS
+name_Tata Indica V2 DLS BSIII
+name_Tata Indica V2 DLS TC
+name_Tata Indica V2 DLX
+name_Tata Indica V2 DLX BSII
+name_Tata Indica V2 DLX BSIII
+name_Tata Indica V2 DLX TC
+name_Tata Indica V2 DiCOR DLG BS-III
+name_Tata Indica V2 Emax CNG GLX
+name_Tata Indica V2 GLX BSIII
+name_Tata Indica V2 LSi
+name_Tata Indica V2 Turbomax DLS BS IV
+name_Tata Indica V2 eLS
+name_Tata Indica V2 eLX
+name_Tata Indica V2 eXeta GLS
+name_Tata Indica Vista Aqua 1.3 Quadrajet
+name_Tata Indica Vista Aqua 1.3 Quadrajet (ABS)
+name_Tata Indica Vista Aqua 1.3 Quadrajet BSIV
+name_Tata Indica Vista Aqua 1.4 TDI
+name_Tata Indica Vista Aqua TDI BSIII
+name_Tata Indica Vista Aura 1.2 Safire (ABS) 90hp BS IV
+name_Tata Indica Vista Aura 1.2 Safire (ABS) BS IV
+name_Tata Indica Vista Aura 1.2 Safire BSIV
+name_Tata Indica Vista Aura 1.3 Quadrajet (ABS)
+name_Tata Indica Vista Aura 1.3 Quadrajet (ABS) BS IV
+name_Tata Indica Vista Aura Plus 1.3 Quadrajet BS IV
+name_Tata Indica Vista Aura Safire Anniversary Edition
+name_Tata Indica Vista Quadrajet 90 VX
+name_Tata Indica Vista Quadrajet LS
+name_Tata Indica Vista Quadrajet VX
+name_Tata Indica Vista Quadrajet VX Tech
+name_Tata Indica Vista Quadrajet ZX
+name_Tata Indica Vista Safire GLX
+name_Tata Indica Vista TDI LS
+name_Tata Indica Vista TDI LX
+name_Tata Indica Vista Terra 1.4 TDI
+name_Tata Indica Vista Terra Quadrajet 1.3L
+name_Tata Indica Vista Terra Quadrajet 1.3L BS IV
+name_Tata Indica Vista Terra TDI BSIII
+name_Tata Indigo CR4
+name_Tata Indigo CS GLS BSIII
+name_Tata Indigo CS GLX BS III
+name_Tata Indigo CS LE (TDI) BS-III
+name_Tata Indigo CS LS (TDI) BS III
+name_Tata Indigo CS LS (TDI) BS-III
+name_Tata Indigo CS LS DiCOR
+name_Tata Indigo CS LX (TDI) BS III
+name_Tata Indigo CS LX (TDI) BS-III
+name_Tata Indigo CS LX DiCOR
+name_Tata Indigo CS eGLS BS IV
+name_Tata Indigo CS eGLX BS IV
+name_Tata Indigo CS eLS BS IV
+name_Tata Indigo CS eLX BS IV
+name_Tata Indigo CS eVX
+name_Tata Indigo GLS
+name_Tata Indigo GLX
+name_Tata Indigo Grand Dicor
+name_Tata Indigo Grand Petrol
+name_Tata Indigo LS
+name_Tata Indigo LS BSII
+name_Tata Indigo LX
+name_Tata Indigo TDI
+name_Tata Indigo V BSIII
+name_Tata Indigo VS
+name_Tata Indigo eCS GLS
+name_Tata Indigo eCS GLX
+name_Tata Indigo eCS LE TDI BSIII
+name_Tata Indigo eCS LS TDI BSIII
+name_Tata Indigo eCS LX BSIV
+name_Tata Indigo eCS LX TDI BSIII
+name_Tata Indigo eCS VX BSIV
+name_Tata Manza Aqua Quadrajet
+name_Tata Manza Aqua Quadrajet BS IV
+name_Tata Manza Aqua Safire
+name_Tata Manza Aura (ABS) Quadrajet
+name_Tata Manza Aura (ABS) Quadrajet BS IV
+name_Tata Manza Aura (ABS) Safire
+name_Tata Manza Aura (ABS) Safire BS IV
+name_Tata Manza Aura Plus Quadrajet
+name_Tata Manza Aura Plus Quadrajet BS IV
+name_Tata Manza Aura Plus Safire
+name_Tata Manza Aura Quadrajet
+name_Tata Manza Aura Quadrajet BS IV
+name_Tata Manza Aura Safire
+name_Tata Manza Club Class Quadrajet90 EX
+name_Tata Manza Club Class Quadrajet90 LS
+name_Tata Manza Club Class Quadrajet90 LX
+name_Tata Manza Club Class Quadrajet90 VX
+name_Tata Manza ELAN Quadrajet BS III
+name_Tata Manza ELAN Quadrajet BS IV
+name_Tata Nano CX
+name_Tata Nano Cx
+name_Tata Nano Cx BSIII
+name_Tata Nano Cx BSIV
+name_Tata Nano LX
+name_Tata Nano LX SE
+name_Tata Nano Lx
+name_Tata Nano Lx BSIV
+name_Tata Nano STD
+name_Tata Nano Twist XE
+name_Tata Nano Twist XT
+name_Tata Nano XE
+name_Tata Nano XTA
+name_Tata New Safari 3L Dicor LX 4x2
+name_Tata New Safari 4X2
+name_Tata New Safari 4X4 EXI BSIII
+name_Tata New Safari DICOR 2.2 EX 4x2
+name_Tata New Safari DICOR 2.2 EX 4x4
+name_Tata New Safari DICOR 2.2 EX 4x4 BS IV
+name_Tata New Safari DICOR 2.2 GX 4x2
+name_Tata New Safari DICOR 2.2 GX 4x2 BS IV
+name_Tata New Safari DICOR 2.2 LX 4x2
+name_Tata New Safari DICOR 2.2 VX 4x2
+name_Tata New Safari DICOR 2.2 VX 4x2 BS IV
+name_Tata New Safari DICOR 2.2 VX 4x4
+name_Tata New Safari Dicor EX 4X2 BS IV
+name_Tata New Safari Dicor GX 4X2 BS IV
+name_Tata New Safari Dicor LX 4X2 BS IV
+name_Tata New Safari Dicor VX 4X2
+name_Tata New Safari Dicor VX 4X2 BS IV
+name_Tata Nexon 1.2 Revotron XE
+name_Tata Nexon 1.2 Revotron XM
+name_Tata Nexon 1.2 Revotron XZ Plus
+name_Tata Nexon 1.2 Revotron XZ Plus Dual Tone
+name_Tata Nexon 1.2 Revotron XZA Plus
+name_Tata Nexon 1.5 Revotorq XE
+name_Tata Nexon 1.5 Revotorq XM
+name_Tata Nexon 1.5 Revotorq XT
+name_Tata Nexon 1.5 Revotorq XZ Plus
+name_Tata Nexon 1.5 Revotorq XZ Plus Dual Tone
+name_Tata Nexon 1.5 Revotorq XZA Plus
+name_Tata Nexon 1.5 Revotorq XZA Plus DualTone
+name_Tata Safari DICOR 2.2 EX 4x2
+name_Tata Safari DICOR 2.2 LX 4x2
+name_Tata Safari Storme EX
+name_Tata Safari Storme LX
+name_Tata Safari Storme VX
+name_Tata Safari Storme VX Varicor 400
+name_Tata Spacio Gold-10/6 Str BSII
+name_Tata Sumo CX
+name_Tata Sumo CX 10 Str BSIV
+name_Tata Sumo CX 9 Seater
+name_Tata Sumo EX
+name_Tata Sumo EX 10/7 Str BSIII
+name_Tata Sumo EX BS IV
+name_Tata Sumo EX TC
+name_Tata Sumo GX
+name_Tata Sumo GX 7 Str BSII
+name_Tata Sumo Gold CX BSIII
+name_Tata Sumo Gold EX
+name_Tata Sumo Gold EX BSIII
+name_Tata Sumo Gold GX
+name_Tata Sumo Gold GX BSIII
+name_Tata Sumo MKII CX BS IV
+name_Tata Sumo MKII GX BS IV
+name_Tata Sumo MKII Turbo 2.0 LX
+name_Tata Sumo SE
+name_Tata Sumo SE Plus BSII
+name_Tata Tiago 1.05 Revotorq XE
+name_Tata Tiago 1.05 Revotorq XM
+name_Tata Tiago 1.05 Revotorq XT
+name_Tata Tiago 1.05 Revotorq XT Option
+name_Tata Tiago 1.05 Revotorq XZ
+name_Tata Tiago 1.05 Revotorq XZ WO Alloy
+name_Tata Tiago 1.2 Revotron XE
+name_Tata Tiago 1.2 Revotron XM
+name_Tata Tiago 1.2 Revotron XM Option
+name_Tata Tiago 1.2 Revotron XT
+name_Tata Tiago 1.2 Revotron XTA
+name_Tata Tiago 1.2 Revotron XZ
+name_Tata Tiago 1.2 Revotron XZ Plus Dual Tone
+name_Tata Tiago 1.2 Revotron XZ WO Alloy
+name_Tata Tiago 1.2 Revotron XZA
+name_Tata Tiago 2019-2020 XZ
+name_Tata Tiago 2019-2020 XZ Plus Diesel
+name_Tata Tiago 2019-2020 XZ Plus Dual Tone
+name_Tata Tiago NRG Petrol
+name_Tata Tiago NRG Petrol AMT
+name_Tata Tiago Wizz 1.05 Revotorq
+name_Tata Tiago XT
+name_Tata Tigor 1.05 Revotorq XM
+name_Tata Tigor 1.05 Revotorq XZ
+name_Tata Tigor 1.05 Revotorq XZ Option
+name_Tata Tigor 1.2 Revotron XE
+name_Tata Tigor 1.2 Revotron XT
+name_Tata Tigor 1.2 Revotron XZ
+name_Tata Tigor 1.2 Revotron XZ Option
+name_Tata Tigor 1.2 Revotron XZA
+name_Tata Tigor 2017-2020 XZ
+name_Tata Tigor 2017-2020 XZ Plus
+name_Tata Tigor 2017-2020 XZ Plus Diesel
+name_Tata Venture EX 7 Str
+name_Tata Venture EX 7 Str Captain Seats
+name_Tata Venture LX 7 Str
+name_Tata Winger Deluxe - Flat Roof (Non-AC)
+name_Tata Xenon XT EX 4X2
+name_Tata Xenon XT EX 4X4
+name_Tata Zest Quadrajet 1.3 75PS XE
+name_Tata Zest Quadrajet 1.3 75PS XM
+name_Tata Zest Quadrajet 1.3 75PS XMS
+name_Tata Zest Quadrajet 1.3 Anniversary Edition
+name_Tata Zest Quadrajet 1.3 XM
+name_Tata Zest Quadrajet 1.3 XMS
+name_Tata Zest Quadrajet 1.3 XT
+name_Tata Zest Revotron 1.2 XT
+name_Tata Zest Revotron 1.2T XM
+name_Tata Zest Revotron 1.2T XMS
+name_Toyota Camry 2.5 Hybrid
+name_Toyota Camry V4 (MT)
+name_Toyota Camry W4 (AT)
+name_Toyota Corolla AE
+name_Toyota Corolla Altis 1.4 DGL
+name_Toyota Corolla Altis 1.8 G
+name_Toyota Corolla Altis 1.8 G CVT
+name_Toyota Corolla Altis 1.8 J
+name_Toyota Corolla Altis 1.8 Sport
+name_Toyota Corolla Altis 1.8 VL AT
+name_Toyota Corolla Altis 1.8 VL CVT
+name_Toyota Corolla Altis D-4D G
+name_Toyota Corolla Altis D-4D J
+name_Toyota Corolla Altis Diesel D4DG
+name_Toyota Corolla Altis Diesel D4DJ
+name_Toyota Corolla Altis G
+name_Toyota Corolla Altis JS MT
+name_Toyota Corolla DX
+name_Toyota Corolla H2
+name_Toyota Etios 1.4 VXD
+name_Toyota Etios 1.5 V
+name_Toyota Etios Cross 1.2L G
+name_Toyota Etios Cross 1.4L GD
+name_Toyota Etios Diesel TRD Sportivo
+name_Toyota Etios G
+name_Toyota Etios G Safety
+name_Toyota Etios GD
+name_Toyota Etios GD SP
+name_Toyota Etios Liva 1.2 V Dual Tone
+name_Toyota Etios Liva 1.4 GD
+name_Toyota Etios Liva 1.4 VD
+name_Toyota Etios Liva Diesel
+name_Toyota Etios Liva Diesel TRD Sportivo
+name_Toyota Etios Liva G
+name_Toyota Etios Liva GD
+name_Toyota Etios Liva GD SP
+name_Toyota Etios Liva VD
+name_Toyota Etios Liva VXD
+name_Toyota Etios V
+name_Toyota Etios VD
+name_Toyota Etios VX
+name_Toyota Etios VXD
+name_Toyota Fortuner 2.5 4x2 MT TRD Sportivo
+name_Toyota Fortuner 2.8 2WD AT BSIV
+name_Toyota Fortuner 2.8 2WD MT
+name_Toyota Fortuner 2.8 2WD MT BSIV
+name_Toyota Fortuner 2.8 4WD AT BSIV
+name_Toyota Fortuner 2.8 4WD MT BSIV
+name_Toyota Fortuner 3.0 Diesel
+name_Toyota Fortuner 4x2 4 Speed AT
+name_Toyota Fortuner 4x2 AT
+name_Toyota Fortuner 4x2 AT TRD Sportivo
+name_Toyota Fortuner 4x2 Manual
+name_Toyota Fortuner 4x4 AT
+name_Toyota Fortuner 4x4 MT
+name_Toyota Glanza G CVT
+name_Toyota Glanza G Smart Hybrid
+name_Toyota Glanza V CVT
+name_Toyota Innova 2.5 E 7 STR
+name_Toyota Innova 2.5 E Diesel MS 7-seater
+name_Toyota Innova 2.5 E Diesel MS 8-seater
+name_Toyota Innova 2.5 E Diesel PS 7-Seater
+name_Toyota Innova 2.5 EV (Diesel) PS 7 Seater BS IV
+name_Toyota Innova 2.5 EV (Diesel) PS 8 Seater BS IV
+name_Toyota Innova 2.5 EV Diesel MS 7 Str BSIII
+name_Toyota Innova 2.5 EV Diesel PS 7 Seater BSIII
+name_Toyota Innova 2.5 EV PS 8 STR BSIV
+name_Toyota Innova 2.5 G (Diesel) 7 Seater
+name_Toyota Innova 2.5 G (Diesel) 7 Seater BS IV
+name_Toyota Innova 2.5 G (Diesel) 8 Seater
+name_Toyota Innova 2.5 G (Diesel) 8 Seater BS IV
+name_Toyota Innova 2.5 G1 Diesel 8-seater
+name_Toyota Innova 2.5 G2
+name_Toyota Innova 2.5 G4 Diesel 7-seater
+name_Toyota Innova 2.5 G4 Diesel 8-seater
+name_Toyota Innova 2.5 GX (Diesel) 7 Seater
+name_Toyota Innova 2.5 GX (Diesel) 8 Seater
+name_Toyota Innova 2.5 GX (Diesel) 8 Seater BS IV
+name_Toyota Innova 2.5 GX 7 STR
+name_Toyota Innova 2.5 GX 8 STR
+name_Toyota Innova 2.5 GX 8 STR BSIV
+name_Toyota Innova 2.5 V Diesel 7-seater
+name_Toyota Innova 2.5 V Diesel 8-seater
+name_Toyota Innova 2.5 VX (Diesel) 7 Seater
+name_Toyota Innova 2.5 VX (Diesel) 7 Seater BS IV
+name_Toyota Innova 2.5 VX (Diesel) 8 Seater
+name_Toyota Innova 2.5 VX (Diesel) 8 Seater BS IV
+name_Toyota Innova 2.5 VX 7 STR
+name_Toyota Innova 2.5 VX 8 STR
+name_Toyota Innova 2.5 VX 8 STR BSIV
+name_Toyota Innova 2.5 Z Diesel 7 Seater
+name_Toyota Innova 2.5 Z Diesel 7 Seater BS IV
+name_Toyota Innova 2.5 ZX Diesel 7 Seater BSIII
+name_Toyota Innova Crysta 2.4 G MT 8 STR
+name_Toyota Innova Crysta 2.4 GX MT 8S BSIV
+name_Toyota Innova Crysta 2.4 GX MT BSIV
+name_Toyota Innova Crysta 2.4 VX MT
+name_Toyota Innova Crysta 2.4 VX MT 8S BSIV
+name_Toyota Innova Crysta 2.4 VX MT BSIV
+name_Toyota Innova Crysta 2.4 ZX AT
+name_Toyota Innova Crysta 2.4 ZX MT
+name_Toyota Innova Crysta 2.4 ZX MT BSIV
+name_Toyota Innova Crysta 2.5 VX BS IV
+name_Toyota Innova Crysta 2.7 GX AT 8 STR
+name_Toyota Innova Crysta 2.7 ZX AT BSIV
+name_Toyota Innova Crysta 2.8 GX AT 8S BSIV
+name_Toyota Innova Crysta 2.8 GX AT BSIV
+name_Toyota Innova Crysta 2.8 ZX AT BSIV
+name_Toyota Land Cruiser Prado VX L
+name_Toyota Platinum Etios 1.4 GD
+name_Toyota Platinum Etios 1.4 GXD
+name_Toyota Premio Base
+name_Toyota Qualis FS B3
+name_Toyota Qualis FS F7
+name_Toyota Qualis Fleet A3
+name_Toyota Qualis GS C1
+name_Toyota Qualis GS G1
+name_Toyota Yaris V BSIV
+name_Toyota Yaris V CVT BSIV
+name_Volkswagen Ameo 1.0 MPI Comfortline
+name_Volkswagen Ameo 1.0 MPI Trendline
+name_Volkswagen Ameo 1.2 MPI Comfortline
+name_Volkswagen Ameo 1.2 MPI Comfortline Plus
+name_Volkswagen Ameo 1.2 MPI Highline
+name_Volkswagen Ameo 1.2 MPI Highline Plus 16
+name_Volkswagen Ameo 1.5 TDI Comfortline
+name_Volkswagen Ameo 1.5 TDI Comfortline AT
+name_Volkswagen Ameo 1.5 TDI Highline 16 Alloy
+name_Volkswagen Ameo 1.5 TDI Highline Plus
+name_Volkswagen Ameo 1.5 TDI Highline Plus 16 AT
+name_Volkswagen Ameo 1.5 TDI Trendline
+name_Volkswagen CrossPolo 1.5 TDI
+name_Volkswagen GTI 1.8 TSI
+name_Volkswagen Jetta 1.6 Trendline
+name_Volkswagen Jetta 2.0 TDI Comfortline
+name_Volkswagen Jetta 2.0L TDI Comfortline
+name_Volkswagen Jetta 2.0L TDI Highline
+name_Volkswagen Jetta 2.0L TDI Highline AT
+name_Volkswagen Multivan TDI
+name_Volkswagen Passat 1.8 TSI MT
+name_Volkswagen Passat 2.0 TDI AT Highline
+name_Volkswagen Passat Highline DSG S
+name_Volkswagen Passat Highline DSG S (Spl. Edition)
+name_Volkswagen Polo 1.0 MPI Trendline BSIV
+name_Volkswagen Polo 1.0 TSI Highline Plus
+name_Volkswagen Polo 1.2 MPI Comfortline
+name_Volkswagen Polo 1.2 MPI Highline
+name_Volkswagen Polo 1.5 TDI Comfortline
+name_Volkswagen Polo 1.5 TDI Highline
+name_Volkswagen Polo 2015-2019 1.0 MPI Comfortline
+name_Volkswagen Polo 2015-2019 1.0 MPI Highline Plus
+name_Volkswagen Polo 2015-2019 1.0 MPI Trendline
+name_Volkswagen Polo 2015-2019 1.2 MPI Highline Plus
+name_Volkswagen Polo 2015-2019 1.5 TDI Highline Plus
+name_Volkswagen Polo 2015-2019 GT 1.5 TDI
+name_Volkswagen Polo Diesel Comfortline 1.2L
+name_Volkswagen Polo Diesel Highline 1.2L
+name_Volkswagen Polo Diesel Trendline 1.2L
+name_Volkswagen Polo GT TDI
+name_Volkswagen Polo GT TSI
+name_Volkswagen Polo GT TSI BSIV
+name_Volkswagen Polo Petrol Comfortline 1.2L
+name_Volkswagen Polo Petrol Highline 1.2L
+name_Volkswagen Polo Petrol Trendline 1.2L
+name_Volkswagen Polo Select 1.2 MPI Highline
+name_Volkswagen Polo Select 1.5 TDI Highline
+name_Volkswagen Vento 1.5 Highline Plus AT 16 Alloy
+name_Volkswagen Vento 1.5 TDI Comfortline
+name_Volkswagen Vento 1.5 TDI Highline
+name_Volkswagen Vento 1.5 TDI Highline AT
+name_Volkswagen Vento 1.5 TDI Highline BSIV
+name_Volkswagen Vento 1.5 TDI Highline Plus AT
+name_Volkswagen Vento 1.5 TDI Highline Plus AT BSIV
+name_Volkswagen Vento 1.6 Highline
+name_Volkswagen Vento Diesel Breeze
+name_Volkswagen Vento Diesel Comfortline
+name_Volkswagen Vento Diesel Highline
+name_Volkswagen Vento Diesel Trendline
+name_Volkswagen Vento IPL II Diesel Trendline
+name_Volkswagen Vento Konekt Diesel Highline
+name_Volkswagen Vento Petrol Highline
+name_Volkswagen Vento Petrol Highline AT
+name_Volkswagen Vento Petrol Trendline
+name_Volvo S60 D4 SUMMUM
+name_Volvo S90 D4 Inscription BSIV
+name_Volvo V40 Cross Country D3
+name_Volvo V40 D3 R-Design
+name_Volvo XC40 D4 Inscription BSIV
+name_Volvo XC40 D4 R-Design
+name_Volvo XC60 Inscription D5 BSIV
+name_Volvo XC90 T8 Excellence BSIV
+owner_First Owner
+owner_Fourth & Above Owner
+owner_Second Owner
+owner_Test Drive Car
+owner_Third Owner
