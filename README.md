@@ -2,7 +2,6 @@
 
 A Python machine learning project that estimates the selling price of a used car from vehicle specifications. The project includes exploratory data analysis (EDA), data preprocessing, an **XGBoost regression model**, model evaluation, and saved model artifacts for inference.
 
-> **Project status:** Educational machine learning project. Prediction quality depends on the dataset, preprocessing, and model evaluation. A prediction is an estimate, not a guaranteed market price.
 
 ## Table of Contents
 
